@@ -1,0 +1,8404 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-10",
+  "words": [
+    {
+      "id": "schedule",
+      "word": "schedule",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "일정",
+        "예정하다"
+      ],
+      "example": {
+        "en": "The client meeting has been scheduled for Thursday afternoon.",
+        "ko": "고객 회의가 목요일 오후로 잡혔다."
+      },
+      "rank": 1,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "timetable",
+        "arrange"
+      ],
+      "collocations": [
+        "ahead of schedule",
+        "behind schedule",
+        "be scheduled to do"
+      ]
+    },
+    {
+      "id": "available",
+      "word": "available",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "이용 가능한",
+        "시간이 있는"
+      ],
+      "example": {
+        "en": "Is the conference room available tomorrow morning?",
+        "ko": "회의실을 내일 오전에 쓸 수 있나요?"
+      },
+      "rank": 2,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "accessible",
+        "free"
+      ],
+      "collocations": [
+        "be available for",
+        "readily available"
+      ]
+    },
+    {
+      "id": "provide",
+      "word": "provide",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "제공하다"
+      ],
+      "example": {
+        "en": "The hotel provides free shuttle service to the airport.",
+        "ko": "그 호텔은 공항까지 무료 셔틀을 제공한다."
+      },
+      "rank": 3,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "supply",
+        "offer"
+      ],
+      "collocations": [
+        "provide A with B",
+        "provide for"
+      ]
+    },
+    {
+      "id": "require",
+      "word": "require",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "요구하다",
+        "필요로 하다"
+      ],
+      "example": {
+        "en": "All visitors are required to sign in at the front desk.",
+        "ko": "모든 방문객은 안내데스크에서 서명해야 한다."
+      },
+      "rank": 4,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "demand",
+        "need"
+      ],
+      "collocations": [
+        "be required to do",
+        "require approval"
+      ]
+    },
+    {
+      "id": "customer",
+      "word": "customer",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "고객"
+      ],
+      "example": {
+        "en": "The store surveyed customers about the new checkout system.",
+        "ko": "그 매장은 새 계산 시스템에 대해 고객 설문을 했다."
+      },
+      "rank": 5,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "client",
+        "patron"
+      ],
+      "collocations": [
+        "customer satisfaction",
+        "customer service"
+      ]
+    },
+    {
+      "id": "employee",
+      "word": "employee",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "직원"
+      ],
+      "example": {
+        "en": "Every new employee receives a laptop on the first day.",
+        "ko": "모든 신입 직원은 첫날 노트북을 받는다."
+      },
+      "rank": 6,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "staff member",
+        "worker"
+      ],
+      "collocations": [
+        "employee benefits",
+        "full-time employee"
+      ]
+    },
+    {
+      "id": "department",
+      "word": "department",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "부서"
+      ],
+      "example": {
+        "en": "Please forward the invoice to the accounting department.",
+        "ko": "송장을 회계 부서로 전달해 주세요."
+      },
+      "rank": 7,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "division",
+        "section"
+      ],
+      "collocations": [
+        "sales department",
+        "department head"
+      ]
+    },
+    {
+      "id": "information",
+      "word": "information",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "정보"
+      ],
+      "example": {
+        "en": "For more information, visit our Web site.",
+        "ko": "자세한 정보는 저희 웹사이트를 방문하세요."
+      },
+      "rank": 8,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "details",
+        "data"
+      ],
+      "collocations": [
+        "contact information",
+        "detailed information"
+      ]
+    },
+    {
+      "id": "order",
+      "word": "order",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "주문",
+        "주문하다"
+      ],
+      "example": {
+        "en": "We ordered fifty chairs for the new break room.",
+        "ko": "우리는 새 휴게실용 의자 50개를 주문했다."
+      },
+      "rank": 9,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "purchase",
+        "request"
+      ],
+      "collocations": [
+        "place an order",
+        "in order to do"
+      ]
+    },
+    {
+      "id": "offer",
+      "word": "offer",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "제공하다",
+        "제안"
+      ],
+      "example": {
+        "en": "The bakery offers a discount on bread after 6 P.M.",
+        "ko": "그 빵집은 오후 6시 이후 빵을 할인해 준다."
+      },
+      "rank": 10,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "provide",
+        "proposal"
+      ],
+      "collocations": [
+        "special offer",
+        "job offer"
+      ]
+    },
+    {
+      "id": "receive",
+      "word": "receive",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "받다"
+      ],
+      "example": {
+        "en": "Applicants will receive a confirmation e-mail within two days.",
+        "ko": "지원자는 이틀 안에 확인 이메일을 받게 된다."
+      },
+      "rank": 11,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "get",
+        "obtain"
+      ],
+      "collocations": [
+        "receive a refund",
+        "upon receiving"
+      ]
+    },
+    {
+      "id": "product",
+      "word": "product",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "제품"
+      ],
+      "example": {
+        "en": "The company will launch three new products this spring.",
+        "ko": "그 회사는 올봄 신제품 세 개를 출시한다."
+      },
+      "rank": 12,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "goods",
+        "item"
+      ],
+      "collocations": [
+        "product line",
+        "product launch"
+      ]
+    },
+    {
+      "id": "service",
+      "word": "service",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "서비스",
+        "근무"
+      ],
+      "example": {
+        "en": "The repair service is free during the warranty period.",
+        "ko": "보증 기간 중에는 수리 서비스가 무료다."
+      },
+      "rank": 13,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "assistance"
+      ],
+      "collocations": [
+        "customer service",
+        "years of service"
+      ]
+    },
+    {
+      "id": "project",
+      "word": "project",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "프로젝트",
+        "사업"
+      ],
+      "example": {
+        "en": "The renovation project is expected to finish in May.",
+        "ko": "보수 공사 프로젝트는 5월에 끝날 예정이다."
+      },
+      "rank": 14,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "plan",
+        "undertaking"
+      ],
+      "collocations": [
+        "project manager",
+        "on the project"
+      ]
+    },
+    {
+      "id": "company",
+      "word": "company",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "회사"
+      ],
+      "example": {
+        "en": "The company relocated its headquarters to Busan.",
+        "ko": "그 회사는 본사를 부산으로 옮겼다."
+      },
+      "rank": 15,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "firm",
+        "corporation"
+      ],
+      "collocations": [
+        "company policy",
+        "company picnic"
+      ]
+    },
+    {
+      "id": "include",
+      "word": "include",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "포함하다"
+      ],
+      "example": {
+        "en": "The price includes breakfast and parking.",
+        "ko": "가격에는 조식과 주차가 포함되어 있다."
+      },
+      "rank": 16,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "contain",
+        "cover"
+      ],
+      "collocations": [
+        "be included in",
+        "including tax"
+      ]
+    },
+    {
+      "id": "report",
+      "word": "report",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "보고서",
+        "보고하다"
+      ],
+      "example": {
+        "en": "Ms. Kim reported the results to the board.",
+        "ko": "김 씨는 결과를 이사회에 보고했다."
+      },
+      "rank": 17,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "account",
+        "inform"
+      ],
+      "collocations": [
+        "annual report",
+        "report to"
+      ]
+    },
+    {
+      "id": "manager",
+      "word": "manager",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "관리자",
+        "부장"
+      ],
+      "example": {
+        "en": "The store manager approved the refund request.",
+        "ko": "매장 관리자가 환불 요청을 승인했다."
+      },
+      "rank": 18,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "supervisor",
+        "director"
+      ],
+      "collocations": [
+        "branch manager",
+        "hiring manager"
+      ]
+    },
+    {
+      "id": "contact",
+      "word": "contact",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "연락하다",
+        "연락"
+      ],
+      "example": {
+        "en": "Please contact our support team if you have any questions.",
+        "ko": "문의 사항이 있으면 지원팀에 연락하세요."
+      },
+      "rank": 19,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reach",
+        "get in touch with"
+      ],
+      "collocations": [
+        "contact information",
+        "point of contact"
+      ]
+    },
+    {
+      "id": "event",
+      "word": "event",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "행사"
+      ],
+      "example": {
+        "en": "The charity event raised over ten million won.",
+        "ko": "그 자선 행사는 천만 원 넘게 모금했다."
+      },
+      "rank": 20,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "function",
+        "occasion"
+      ],
+      "collocations": [
+        "annual event",
+        "event planner"
+      ]
+    },
+    {
+      "id": "purchase",
+      "word": "purchase",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "구매하다",
+        "구매"
+      ],
+      "example": {
+        "en": "Tickets can be purchased online or at the box office.",
+        "ko": "표는 온라인이나 매표소에서 구매할 수 있다."
+      },
+      "rank": 21,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "buy",
+        "acquisition"
+      ],
+      "collocations": [
+        "proof of purchase",
+        "make a purchase"
+      ]
+    },
+    {
+      "id": "expect",
+      "word": "expect",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "예상하다",
+        "기대하다"
+      ],
+      "example": {
+        "en": "Sales are expected to rise by ten percent next quarter.",
+        "ko": "다음 분기 매출이 10% 오를 것으로 예상된다."
+      },
+      "rank": 22,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "anticipate",
+        "predict"
+      ],
+      "collocations": [
+        "be expected to do",
+        "as expected"
+      ]
+    },
+    {
+      "id": "recent",
+      "word": "recent",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "최근의"
+      ],
+      "example": {
+        "en": "According to a recent survey, most staff prefer flexible hours.",
+        "ko": "최근 설문에 따르면 대부분의 직원이 유연 근무를 선호한다."
+      },
+      "rank": 23,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "latest",
+        "new"
+      ],
+      "collocations": [
+        "recent changes",
+        "in recent years"
+      ]
+    },
+    {
+      "id": "announce",
+      "word": "announce",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "발표하다",
+        "알리다"
+      ],
+      "example": {
+        "en": "The mayor announced plans for a new public library.",
+        "ko": "시장은 새 공공 도서관 계획을 발표했다."
+      },
+      "rank": 24,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "declare",
+        "publicize"
+      ],
+      "collocations": [
+        "announce a merger",
+        "be pleased to announce"
+      ]
+    },
+    {
+      "id": "position",
+      "word": "position",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "직책",
+        "위치"
+      ],
+      "example": {
+        "en": "We are hiring for a sales position in our Seoul office.",
+        "ko": "서울 지사 영업직을 채용 중이다."
+      },
+      "rank": 25,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "post",
+        "role"
+      ],
+      "collocations": [
+        "apply for a position",
+        "fill a position"
+      ]
+    },
+    {
+      "id": "application",
+      "word": "application",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지원(서)",
+        "적용",
+        "앱"
+      ],
+      "example": {
+        "en": "Completed applications must be submitted by Friday.",
+        "ko": "작성한 지원서는 금요일까지 제출해야 한다."
+      },
+      "rank": 26,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "request",
+        "form"
+      ],
+      "collocations": [
+        "job application",
+        "application form"
+      ]
+    },
+    {
+      "id": "apply",
+      "word": "apply",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "지원하다",
+        "적용하다"
+      ],
+      "example": {
+        "en": "She applied for the marketing director position.",
+        "ko": "그녀는 마케팅 이사직에 지원했다."
+      },
+      "rank": 27,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "request",
+        "use"
+      ],
+      "collocations": [
+        "apply for",
+        "apply to"
+      ]
+    },
+    {
+      "id": "increase",
+      "word": "increase",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "증가하다",
+        "증가"
+      ],
+      "example": {
+        "en": "The factory increased production to meet demand.",
+        "ko": "공장은 수요를 맞추기 위해 생산을 늘렸다."
+      },
+      "rank": 28,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "raise",
+        "rise"
+      ],
+      "collocations": [
+        "increase in",
+        "significant increase"
+      ]
+    },
+    {
+      "id": "office",
+      "word": "office",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "사무실"
+      ],
+      "example": {
+        "en": "The office will be closed on the national holiday.",
+        "ko": "사무실은 국경일에 문을 닫는다."
+      },
+      "rank": 29,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "workplace"
+      ],
+      "collocations": [
+        "head office",
+        "office supplies"
+      ]
+    },
+    {
+      "id": "staff",
+      "word": "staff",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "직원(전체)"
+      ],
+      "example": {
+        "en": "All staff must attend the safety training session.",
+        "ko": "전 직원은 안전 교육에 참석해야 한다."
+      },
+      "rank": 30,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "personnel",
+        "workforce"
+      ],
+      "collocations": [
+        "staff member",
+        "sales staff"
+      ]
+    },
+    {
+      "id": "update",
+      "word": "update",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "갱신하다",
+        "최신 정보"
+      ],
+      "example": {
+        "en": "Please update your contact details in the system.",
+        "ko": "시스템에서 연락처 정보를 갱신해 주세요."
+      },
+      "rank": 31,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "revise",
+        "renew"
+      ],
+      "collocations": [
+        "software update",
+        "keep A updated"
+      ]
+    },
+    {
+      "id": "review",
+      "word": "review",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "검토하다",
+        "검토",
+        "후기"
+      ],
+      "example": {
+        "en": "The legal team will review the contract before signing.",
+        "ko": "법무팀이 서명 전 계약서를 검토할 것이다."
+      },
+      "rank": 32,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "examine",
+        "evaluation"
+      ],
+      "collocations": [
+        "performance review",
+        "under review"
+      ]
+    },
+    {
+      "id": "complete",
+      "word": "complete",
+      "pos": [
+        "v",
+        "adj"
+      ],
+      "meanings": [
+        "완료하다",
+        "완전한"
+      ],
+      "example": {
+        "en": "Please complete the survey by the end of the week.",
+        "ko": "이번 주말까지 설문을 완료해 주세요."
+      },
+      "rank": 33,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "finish",
+        "whole"
+      ],
+      "collocations": [
+        "complete a form",
+        "upon completion"
+      ]
+    },
+    {
+      "id": "meeting",
+      "word": "meeting",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "회의"
+      ],
+      "example": {
+        "en": "The weekly staff meeting has been moved to Room 3.",
+        "ko": "주간 직원 회의 장소가 3번 회의실로 바뀌었다."
+      },
+      "rank": 34,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "conference",
+        "session"
+      ],
+      "collocations": [
+        "hold a meeting",
+        "board meeting"
+      ]
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "요청",
+        "요청하다"
+      ],
+      "example": {
+        "en": "The client requested a revised estimate.",
+        "ko": "고객이 수정된 견적을 요청했다."
+      },
+      "rank": 35,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "ask for",
+        "demand"
+      ],
+      "collocations": [
+        "upon request",
+        "request for"
+      ]
+    },
+    {
+      "id": "due",
+      "word": "due",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "~하기로 되어 있는",
+        "만기인"
+      ],
+      "example": {
+        "en": "The rent payment is due on the first of each month.",
+        "ko": "임대료는 매달 1일이 납부 기한이다."
+      },
+      "rank": 36,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "payable",
+        "expected"
+      ],
+      "collocations": [
+        "due to",
+        "due date",
+        "be due to do"
+      ]
+    },
+    {
+      "id": "attend",
+      "word": "attend",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "참석하다"
+      ],
+      "example": {
+        "en": "More than 300 people attended the trade fair.",
+        "ko": "300명이 넘는 사람이 무역 박람회에 참석했다."
+      },
+      "rank": 37,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "go to",
+        "participate in"
+      ],
+      "collocations": [
+        "attend a meeting",
+        "attend a conference"
+      ]
+    },
+    {
+      "id": "registration",
+      "word": "registration",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "등록"
+      ],
+      "example": {
+        "en": "Online registration closes at midnight on June 3.",
+        "ko": "온라인 등록은 6월 3일 자정에 마감된다."
+      },
+      "rank": 38,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enrollment",
+        "sign-up"
+      ],
+      "collocations": [
+        "registration fee",
+        "registration form"
+      ]
+    },
+    {
+      "id": "invoice",
+      "word": "invoice",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "송장",
+        "청구서"
+      ],
+      "example": {
+        "en": "The invoice lists each item and its unit price.",
+        "ko": "송장에는 각 품목과 단가가 적혀 있다."
+      },
+      "rank": 39,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
+      "collocations": [
+        "send an invoice",
+        "invoice number"
+      ]
+    },
+    {
+      "id": "delivery",
+      "word": "delivery",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "배송",
+        "전달"
+      ],
+      "example": {
+        "en": "Free delivery is available for orders over 50,000 won.",
+        "ko": "5만 원 이상 주문 시 무료 배송이 가능하다."
+      },
+      "rank": 40,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "shipment",
+        "distribution"
+      ],
+      "collocations": [
+        "delivery date",
+        "express delivery"
+      ]
+    },
+    {
+      "id": "shipment",
+      "word": "shipment",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "선적",
+        "배송(품)"
+      ],
+      "example": {
+        "en": "The shipment was delayed due to bad weather.",
+        "ko": "악천후로 배송이 지연되었다."
+      },
+      "rank": 41,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "delivery",
+        "consignment"
+      ],
+      "collocations": [
+        "track a shipment",
+        "incoming shipment"
+      ]
+    },
+    {
+      "id": "confirm",
+      "word": "confirm",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "확인하다",
+        "확정하다"
+      ],
+      "example": {
+        "en": "Please call to confirm your reservation.",
+        "ko": "예약을 확인하려면 전화해 주세요."
+      },
+      "rank": 42,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "verify",
+        "validate"
+      ],
+      "collocations": [
+        "confirm an appointment",
+        "confirmation number"
+      ]
+    },
+    {
+      "id": "reservation",
+      "word": "reservation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "예약"
+      ],
+      "example": {
+        "en": "I'd like to make a reservation for four people.",
+        "ko": "4명 예약하고 싶습니다."
+      },
+      "rank": 43,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "booking"
+      ],
+      "collocations": [
+        "make a reservation",
+        "cancel a reservation"
+      ]
+    },
+    {
+      "id": "discount",
+      "word": "discount",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "할인",
+        "할인하다"
+      ],
+      "example": {
+        "en": "Members receive a 15 percent discount on all books.",
+        "ko": "회원은 모든 책을 15% 할인받는다."
+      },
+      "rank": 44,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "reduction",
+        "markdown"
+      ],
+      "collocations": [
+        "at a discount",
+        "discount coupon"
+      ]
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "정책",
+        "방침"
+      ],
+      "example": {
+        "en": "The new travel policy limits hotel costs per night.",
+        "ko": "새 출장 정책은 1박 숙박비를 제한한다."
+      },
+      "rank": 45,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "rule",
+        "guideline"
+      ],
+      "collocations": [
+        "company policy",
+        "return policy"
+      ]
+    },
+    {
+      "id": "replace",
+      "word": "replace",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "교체하다",
+        "대신하다"
+      ],
+      "example": {
+        "en": "The technician replaced the broken printer cartridge.",
+        "ko": "기술자가 고장 난 프린터 카트리지를 교체했다."
+      },
+      "rank": 46,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "substitute",
+        "change"
+      ],
+      "collocations": [
+        "replace A with B",
+        "replacement part"
+      ]
+    },
+    {
+      "id": "repair",
+      "word": "repair",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "수리하다",
+        "수리"
+      ],
+      "example": {
+        "en": "The elevator is being repaired this afternoon.",
+        "ko": "엘리베이터는 오늘 오후 수리 중이다."
+      },
+      "rank": 47,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "fix",
+        "mend"
+      ],
+      "collocations": [
+        "under repair",
+        "repair shop"
+      ]
+    },
+    {
+      "id": "facility",
+      "word": "facility",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "시설"
+      ],
+      "example": {
+        "en": "The new fitness facility is open to all residents.",
+        "ko": "새 체육 시설은 모든 주민에게 개방된다."
+      },
+      "rank": 48,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "building",
+        "amenity"
+      ],
+      "collocations": [
+        "manufacturing facility",
+        "storage facility"
+      ]
+    },
+    {
+      "id": "location",
+      "word": "location",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "위치",
+        "지점"
+      ],
+      "example": {
+        "en": "The café opened its third location downtown.",
+        "ko": "그 카페는 시내에 세 번째 지점을 열었다."
+      },
+      "rank": 49,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "site",
+        "branch"
+      ],
+      "collocations": [
+        "convenient location",
+        "new location"
+      ]
+    },
+    {
+      "id": "budget",
+      "word": "budget",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "예산"
+      ],
+      "example": {
+        "en": "The marketing budget was cut by twenty percent.",
+        "ko": "마케팅 예산이 20% 삭감되었다."
+      },
+      "rank": 50,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "funds",
+        "allowance"
+      ],
+      "collocations": [
+        "within budget",
+        "over budget"
+      ]
+    },
+    {
+      "id": "cost",
+      "word": "cost",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "비용",
+        "비용이 들다"
+      ],
+      "example": {
+        "en": "The repairs cost more than we expected.",
+        "ko": "수리 비용이 예상보다 많이 들었다."
+      },
+      "rank": 51,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "expense",
+        "price"
+      ],
+      "collocations": [
+        "cost estimate",
+        "at no extra cost"
+      ]
+    },
+    {
+      "id": "pay",
+      "word": "pay",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "지불하다",
+        "급여"
+      ],
+      "example": {
+        "en": "You can pay for your order with a credit card.",
+        "ko": "주문 대금은 신용카드로 지불할 수 있다."
+      },
+      "rank": 52,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "settle",
+        "wage"
+      ],
+      "collocations": [
+        "pay for",
+        "pay raise"
+      ]
+    },
+    {
+      "id": "sale",
+      "word": "sale",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "판매",
+        "할인 판매"
+      ],
+      "example": {
+        "en": "The winter clothing sale starts this weekend.",
+        "ko": "겨울 의류 할인 판매가 이번 주말 시작된다."
+      },
+      "rank": 53,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "selling",
+        "promotion"
+      ],
+      "collocations": [
+        "on sale",
+        "for sale",
+        "sales figures"
+      ]
+    },
+    {
+      "id": "market",
+      "word": "market",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "시장",
+        "홍보하다"
+      ],
+      "example": {
+        "en": "The firm plans to enter the Asian market next year.",
+        "ko": "그 회사는 내년에 아시아 시장에 진출할 계획이다."
+      },
+      "rank": 54,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "marketplace",
+        "promote"
+      ],
+      "collocations": [
+        "market share",
+        "on the market"
+      ]
+    },
+    {
+      "id": "industry",
+      "word": "industry",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "산업",
+        "업계"
+      ],
+      "example": {
+        "en": "The tourism industry has recovered quickly.",
+        "ko": "관광 산업이 빠르게 회복되었다."
+      },
+      "rank": 55,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "sector",
+        "business"
+      ],
+      "collocations": [
+        "industry leader",
+        "food industry"
+      ]
+    },
+    {
+      "id": "experience",
+      "word": "experience",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "경험",
+        "경력",
+        "겪다"
+      ],
+      "example": {
+        "en": "Candidates must have at least three years of experience.",
+        "ko": "지원자는 최소 3년 경력이 있어야 한다."
+      },
+      "rank": 56,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "background",
+        "undergo"
+      ],
+      "collocations": [
+        "work experience",
+        "experienced staff"
+      ]
+    },
+    {
+      "id": "qualified",
+      "word": "qualified",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "자격을 갖춘"
+      ],
+      "example": {
+        "en": "Only qualified applicants will be contacted for interviews.",
+        "ko": "자격을 갖춘 지원자에게만 면접 연락을 한다."
+      },
+      "rank": 57,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "eligible",
+        "competent"
+      ],
+      "collocations": [
+        "highly qualified",
+        "be qualified for"
+      ]
+    },
+    {
+      "id": "candidate",
+      "word": "candidate",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "후보자",
+        "지원자"
+      ],
+      "example": {
+        "en": "The committee interviewed five candidates for the job.",
+        "ko": "위원회는 그 자리에 다섯 명의 후보를 면접했다."
+      },
+      "rank": 58,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "applicant",
+        "nominee"
+      ],
+      "collocations": [
+        "ideal candidate",
+        "successful candidate"
+      ]
+    },
+    {
+      "id": "hire",
+      "word": "hire",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "고용하다",
+        "신입 사원"
+      ],
+      "example": {
+        "en": "The hotel hired ten seasonal workers for the summer.",
+        "ko": "호텔은 여름철 계절 근로자 10명을 고용했다."
+      },
+      "rank": 59,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "employ",
+        "recruit"
+      ],
+      "collocations": [
+        "new hire",
+        "hire a contractor"
+      ]
+    },
+    {
+      "id": "interview",
+      "word": "interview",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "면접",
+        "면접하다"
+      ],
+      "example": {
+        "en": "Your interview is scheduled for 10 A.M. on Monday.",
+        "ko": "면접은 월요일 오전 10시로 잡혀 있다."
+      },
+      "rank": 60,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "meeting",
+        "question"
+      ],
+      "collocations": [
+        "job interview",
+        "conduct an interview"
+      ]
+    },
+    {
+      "id": "resume",
+      "word": "resume",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "이력서"
+      ],
+      "example": {
+        "en": "Please attach your resume and a cover letter.",
+        "ko": "이력서와 자기소개서를 첨부해 주세요."
+      },
+      "rank": 61,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "CV"
+      ],
+      "collocations": [
+        "submit a resume",
+        "updated resume"
+      ]
+    },
+    {
+      "id": "submit",
+      "word": "submit",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "제출하다"
+      ],
+      "example": {
+        "en": "Expense reports must be submitted within thirty days.",
+        "ko": "경비 보고서는 30일 이내에 제출해야 한다."
+      },
+      "rank": 62,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "hand in",
+        "turn in"
+      ],
+      "collocations": [
+        "submit a proposal",
+        "submit to"
+      ]
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "마감일"
+      ],
+      "example": {
+        "en": "The deadline for proposals has been extended to May 5.",
+        "ko": "제안서 마감일이 5월 5일로 연장되었다."
+      },
+      "rank": 63,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "due date",
+        "time limit"
+      ],
+      "collocations": [
+        "meet a deadline",
+        "tight deadline"
+      ]
+    },
+    {
+      "id": "extend",
+      "word": "extend",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "연장하다",
+        "확장하다"
+      ],
+      "example": {
+        "en": "The museum extended its hours during the festival.",
+        "ko": "박물관은 축제 기간 동안 운영 시간을 연장했다."
+      },
+      "rank": 64,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "lengthen",
+        "prolong"
+      ],
+      "collocations": [
+        "extend a deadline",
+        "extended warranty"
+      ]
+    },
+    {
+      "id": "approve",
+      "word": "approve",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "승인하다"
+      ],
+      "example": {
+        "en": "The board approved the budget for the new factory.",
+        "ko": "이사회가 신규 공장 예산을 승인했다."
+      },
+      "rank": 65,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "authorize",
+        "endorse"
+      ],
+      "collocations": [
+        "approve a request",
+        "approved by"
+      ]
+    },
+    {
+      "id": "approval",
+      "word": "approval",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "승인"
+      ],
+      "example": {
+        "en": "Any changes require approval from a supervisor.",
+        "ko": "변경 사항은 모두 상사의 승인이 필요하다."
+      },
+      "rank": 66,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "authorization",
+        "consent"
+      ],
+      "collocations": [
+        "seek approval",
+        "final approval"
+      ]
+    },
+    {
+      "id": "responsible",
+      "word": "responsible",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "책임이 있는",
+        "담당하는"
+      ],
+      "example": {
+        "en": "Mr. Lee is responsible for training new staff.",
+        "ko": "이 씨가 신입 직원 교육을 담당한다."
+      },
+      "rank": 67,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "in charge",
+        "accountable"
+      ],
+      "collocations": [
+        "be responsible for"
+      ]
+    },
+    {
+      "id": "responsibility",
+      "word": "responsibility",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "책임",
+        "담당 업무"
+      ],
+      "example": {
+        "en": "Her main responsibility is managing client accounts.",
+        "ko": "그녀의 주 업무는 고객 계정 관리다."
+      },
+      "rank": 68,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "duty",
+        "obligation"
+      ],
+      "collocations": [
+        "take responsibility for",
+        "job responsibilities"
+      ]
+    },
+    {
+      "id": "directly",
+      "word": "directly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "직접",
+        "곧바로"
+      ],
+      "example": {
+        "en": "Please send your questions directly to the project leader.",
+        "ko": "질문은 프로젝트 책임자에게 직접 보내 주세요."
+      },
+      "rank": 69,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "immediately",
+        "personally"
+      ],
+      "collocations": [
+        "report directly to",
+        "directly after"
+      ]
+    },
+    {
+      "id": "immediately",
+      "word": "immediately",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "즉시"
+      ],
+      "example": {
+        "en": "Report any equipment problems immediately.",
+        "ko": "장비 문제는 즉시 보고하세요."
+      },
+      "rank": 70,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "at once",
+        "promptly"
+      ],
+      "collocations": [
+        "immediately after",
+        "effective immediately"
+      ]
+    },
+    {
+      "id": "currently",
+      "word": "currently",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "현재"
+      ],
+      "example": {
+        "en": "The position is currently open to internal applicants.",
+        "ko": "그 자리는 현재 내부 지원자에게 열려 있다."
+      },
+      "rank": 71,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "at present",
+        "now"
+      ],
+      "collocations": [
+        "currently available",
+        "is currently being"
+      ]
+    },
+    {
+      "id": "recently",
+      "word": "recently",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "최근에"
+      ],
+      "example": {
+        "en": "The restaurant recently added vegetarian dishes to its menu.",
+        "ko": "그 식당은 최근 메뉴에 채식 요리를 추가했다."
+      },
+      "rank": 72,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "lately",
+        "newly"
+      ],
+      "collocations": [
+        "has recently been",
+        "until recently"
+      ]
+    },
+    {
+      "id": "approximately",
+      "word": "approximately",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "대략"
+      ],
+      "example": {
+        "en": "The tour lasts approximately two hours.",
+        "ko": "투어는 약 두 시간 동안 진행된다."
+      },
+      "rank": 73,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "about",
+        "roughly"
+      ],
+      "collocations": [
+        "approximately 30 percent"
+      ]
+    },
+    {
+      "id": "additional",
+      "word": "additional",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "추가의"
+      ],
+      "example": {
+        "en": "Additional charges apply for express shipping.",
+        "ko": "빠른 배송에는 추가 요금이 붙는다."
+      },
+      "rank": 74,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "extra",
+        "further"
+      ],
+      "collocations": [
+        "additional fee",
+        "additional information"
+      ]
+    },
+    {
+      "id": "annual",
+      "word": "annual",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "연례의",
+        "연간의"
+      ],
+      "example": {
+        "en": "The annual shareholders' meeting will take place in March.",
+        "ko": "연례 주주총회가 3월에 열린다."
+      },
+      "rank": 75,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "yearly"
+      ],
+      "collocations": [
+        "annual report",
+        "annual budget"
+      ]
+    },
+    {
+      "id": "quarter",
+      "word": "quarter",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "분기",
+        "4분의 1"
+      ],
+      "example": {
+        "en": "Profits rose sharply in the second quarter.",
+        "ko": "2분기에 수익이 급증했다."
+      },
+      "rank": 76,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "three-month period"
+      ],
+      "collocations": [
+        "first quarter",
+        "quarterly earnings"
+      ]
+    },
+    {
+      "id": "revenue",
+      "word": "revenue",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "수익",
+        "매출"
+      ],
+      "example": {
+        "en": "Online sales now account for half of our revenue.",
+        "ko": "온라인 판매가 현재 매출의 절반을 차지한다."
+      },
+      "rank": 77,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "income",
+        "earnings"
+      ],
+      "collocations": [
+        "generate revenue",
+        "annual revenue"
+      ]
+    },
+    {
+      "id": "profit",
+      "word": "profit",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "이익",
+        "수익"
+      ],
+      "example": {
+        "en": "The store made a small profit in its first year.",
+        "ko": "그 가게는 첫해에 작은 이익을 냈다."
+      },
+      "rank": 78,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "gain",
+        "earnings"
+      ],
+      "collocations": [
+        "net profit",
+        "profit margin"
+      ]
+    },
+    {
+      "id": "expense",
+      "word": "expense",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "비용",
+        "경비"
+      ],
+      "example": {
+        "en": "Travel expenses will be reimbursed after the trip.",
+        "ko": "출장 경비는 출장 후 환급된다."
+      },
+      "rank": 79,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "cost",
+        "expenditure"
+      ],
+      "collocations": [
+        "at the expense of",
+        "expense report"
+      ]
+    },
+    {
+      "id": "reimburse",
+      "word": "reimburse",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "환급하다",
+        "변제하다"
+      ],
+      "example": {
+        "en": "The company will reimburse employees for taxi fares.",
+        "ko": "회사는 직원들에게 택시비를 환급해 준다."
+      },
+      "rank": 80,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "refund",
+        "repay"
+      ],
+      "collocations": [
+        "be reimbursed for",
+        "reimbursement form"
+      ]
+    },
+    {
+      "id": "refund",
+      "word": "refund",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "환불",
+        "환불하다"
+      ],
+      "example": {
+        "en": "Customers can get a full refund within fourteen days.",
+        "ko": "고객은 14일 이내 전액 환불받을 수 있다."
+      },
+      "rank": 81,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "reimbursement",
+        "repayment"
+      ],
+      "collocations": [
+        "full refund",
+        "issue a refund"
+      ]
+    },
+    {
+      "id": "return",
+      "word": "return",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "반품하다",
+        "돌아오다",
+        "반품"
+      ],
+      "example": {
+        "en": "You may return unused items with the original receipt.",
+        "ko": "사용하지 않은 물품은 원본 영수증과 함께 반품할 수 있다."
+      },
+      "rank": 82,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "give back",
+        "bring back"
+      ],
+      "collocations": [
+        "return policy",
+        "in return for"
+      ]
+    },
+    {
+      "id": "receipt",
+      "word": "receipt",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "영수증",
+        "수령"
+      ],
+      "example": {
+        "en": "Keep your receipt as proof of purchase.",
+        "ko": "구매 증빙으로 영수증을 보관하세요."
+      },
+      "rank": 83,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "proof of purchase"
+      ],
+      "collocations": [
+        "upon receipt of",
+        "keep a receipt"
+      ]
+    },
+    {
+      "id": "warranty",
+      "word": "warranty",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "품질 보증(서)"
+      ],
+      "example": {
+        "en": "The laptop comes with a two-year warranty.",
+        "ko": "그 노트북은 2년 품질 보증이 제공된다."
+      },
+      "rank": 84,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "guarantee"
+      ],
+      "collocations": [
+        "under warranty",
+        "extended warranty"
+      ]
+    },
+    {
+      "id": "estimate",
+      "word": "estimate",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "견적",
+        "추정하다"
+      ],
+      "example": {
+        "en": "The contractor gave us an estimate for the new roof.",
+        "ko": "시공업자가 새 지붕 견적을 줬다."
+      },
+      "rank": 85,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "quote",
+        "calculate"
+      ],
+      "collocations": [
+        "cost estimate",
+        "rough estimate"
+      ]
+    },
+    {
+      "id": "quote",
+      "word": "quote",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "견적(가)",
+        "인용하다"
+      ],
+      "example": {
+        "en": "Please send me a quote for 200 printed brochures.",
+        "ko": "인쇄 안내책자 200부의 견적을 보내 주세요."
+      },
+      "rank": 86,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "estimate",
+        "cite"
+      ],
+      "collocations": [
+        "price quote",
+        "get a quote"
+      ]
+    },
+    {
+      "id": "contract",
+      "word": "contract",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "계약(서)",
+        "계약하다"
+      ],
+      "example": {
+        "en": "The two firms signed a three-year contract.",
+        "ko": "두 회사가 3년 계약을 체결했다."
+      },
+      "rank": 87,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "agreement",
+        "deal"
+      ],
+      "collocations": [
+        "sign a contract",
+        "renew a contract"
+      ]
+    },
+    {
+      "id": "agreement",
+      "word": "agreement",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "합의",
+        "계약"
+      ],
+      "example": {
+        "en": "Both parties reached an agreement on pricing.",
+        "ko": "양측은 가격에 합의했다."
+      },
+      "rank": 88,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "contract",
+        "consensus"
+      ],
+      "collocations": [
+        "reach an agreement",
+        "in agreement with"
+      ]
+    },
+    {
+      "id": "negotiate",
+      "word": "negotiate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "협상하다"
+      ],
+      "example": {
+        "en": "We negotiated a lower rate with the supplier.",
+        "ko": "우리는 공급업체와 협상해 단가를 낮췄다."
+      },
+      "rank": 89,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "bargain",
+        "discuss"
+      ],
+      "collocations": [
+        "negotiate a contract",
+        "negotiation skills"
+      ]
+    },
+    {
+      "id": "supplier",
+      "word": "supplier",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "공급업체"
+      ],
+      "example": {
+        "en": "The restaurant changed its vegetable supplier.",
+        "ko": "그 식당은 채소 공급업체를 바꿨다."
+      },
+      "rank": 90,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "vendor",
+        "provider"
+      ],
+      "collocations": [
+        "main supplier",
+        "office supplier"
+      ]
+    },
+    {
+      "id": "supply",
+      "word": "supply",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "공급(품)",
+        "공급하다"
+      ],
+      "example": {
+        "en": "Office supplies are stored in the cabinet by the door.",
+        "ko": "사무용품은 문 옆 캐비닛에 보관되어 있다."
+      },
+      "rank": 91,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "stock",
+        "provide"
+      ],
+      "collocations": [
+        "office supplies",
+        "in short supply"
+      ]
+    },
+    {
+      "id": "inventory",
+      "word": "inventory",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "재고(목록)"
+      ],
+      "example": {
+        "en": "The warehouse checks its inventory every Friday.",
+        "ko": "창고는 매주 금요일 재고를 점검한다."
+      },
+      "rank": 92,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "stock",
+        "goods"
+      ],
+      "collocations": [
+        "take inventory",
+        "inventory control"
+      ]
+    },
+    {
+      "id": "stock",
+      "word": "stock",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "재고",
+        "주식",
+        "갖추다"
+      ],
+      "example": {
+        "en": "The blue model is currently out of stock.",
+        "ko": "파란색 모델은 현재 품절이다."
+      },
+      "rank": 93,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "inventory",
+        "supply"
+      ],
+      "collocations": [
+        "in stock",
+        "out of stock"
+      ]
+    },
+    {
+      "id": "warehouse",
+      "word": "warehouse",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "창고"
+      ],
+      "example": {
+        "en": "The goods are shipped from our warehouse in Incheon.",
+        "ko": "상품은 인천 창고에서 발송된다."
+      },
+      "rank": 94,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "storehouse",
+        "depot"
+      ],
+      "collocations": [
+        "warehouse manager",
+        "distribution center"
+      ]
+    },
+    {
+      "id": "manufacture",
+      "word": "manufacture",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "제조하다",
+        "제조"
+      ],
+      "example": {
+        "en": "The plant manufactures parts for electric cars.",
+        "ko": "그 공장은 전기차 부품을 제조한다."
+      },
+      "rank": 95,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "produce",
+        "make"
+      ],
+      "collocations": [
+        "manufacturing plant",
+        "manufacturer"
+      ]
+    },
+    {
+      "id": "production",
+      "word": "production",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "생산",
+        "제작"
+      ],
+      "example": {
+        "en": "Production was halted to inspect the machines.",
+        "ko": "기계 점검을 위해 생산이 중단되었다."
+      },
+      "rank": 96,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "manufacturing",
+        "output"
+      ],
+      "collocations": [
+        "production line",
+        "production cost"
+      ]
+    },
+    {
+      "id": "equipment",
+      "word": "equipment",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "장비"
+      ],
+      "example": {
+        "en": "The lab purchased new testing equipment.",
+        "ko": "연구소는 새 시험 장비를 구매했다."
+      },
+      "rank": 97,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "gear",
+        "apparatus"
+      ],
+      "collocations": [
+        "office equipment",
+        "safety equipment"
+      ]
+    },
+    {
+      "id": "install",
+      "word": "install",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "설치하다"
+      ],
+      "example": {
+        "en": "Technicians will install the new software tonight.",
+        "ko": "기술자들이 오늘 밤 새 소프트웨어를 설치한다."
+      },
+      "rank": 98,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "set up",
+        "put in"
+      ],
+      "collocations": [
+        "install equipment",
+        "installation fee"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "word": "maintenance",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "유지 보수",
+        "관리"
+      ],
+      "example": {
+        "en": "The pool is closed for routine maintenance.",
+        "ko": "수영장은 정기 점검으로 문을 닫았다."
+      },
+      "rank": 99,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "upkeep",
+        "servicing"
+      ],
+      "collocations": [
+        "maintenance work",
+        "regular maintenance"
+      ]
+    },
+    {
+      "id": "inspection",
+      "word": "inspection",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "점검",
+        "검사"
+      ],
+      "example": {
+        "en": "A safety inspection is conducted every six months.",
+        "ko": "안전 점검은 6개월마다 실시된다."
+      },
+      "rank": 100,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "examination",
+        "check"
+      ],
+      "collocations": [
+        "safety inspection",
+        "pass an inspection"
+      ]
+    },
+    {
+      "id": "inspect",
+      "word": "inspect",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "점검하다",
+        "검사하다"
+      ],
+      "example": {
+        "en": "The engineer inspected the bridge for damage.",
+        "ko": "기술자가 다리의 손상 여부를 점검했다."
+      },
+      "rank": 101,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "examine",
+        "check"
+      ],
+      "collocations": [
+        "inspect equipment",
+        "be inspected"
+      ]
+    },
+    {
+      "id": "efficient",
+      "word": "efficient",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "효율적인"
+      ],
+      "example": {
+        "en": "The new heating system is more energy efficient.",
+        "ko": "새 난방 시스템은 에너지 효율이 더 높다."
+      },
+      "rank": 102,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "effective",
+        "productive"
+      ],
+      "collocations": [
+        "energy efficient",
+        "efficient use of"
+      ]
+    },
+    {
+      "id": "efficiency",
+      "word": "efficiency",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "효율(성)"
+      ],
+      "example": {
+        "en": "Automation has greatly improved efficiency at the plant.",
+        "ko": "자동화로 공장 효율이 크게 향상되었다."
+      },
+      "rank": 103,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "productivity"
+      ],
+      "collocations": [
+        "improve efficiency",
+        "fuel efficiency"
+      ]
+    },
+    {
+      "id": "improve",
+      "word": "improve",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "개선하다",
+        "향상시키다"
+      ],
+      "example": {
+        "en": "We are working to improve our delivery times.",
+        "ko": "배송 시간을 개선하려고 노력 중이다."
+      },
+      "rank": 104,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enhance",
+        "upgrade"
+      ],
+      "collocations": [
+        "improve quality",
+        "greatly improve"
+      ]
+    },
+    {
+      "id": "improvement",
+      "word": "improvement",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "개선",
+        "향상"
+      ],
+      "example": {
+        "en": "The survey showed improvement in customer satisfaction.",
+        "ko": "설문 결과 고객 만족도가 향상되었다."
+      },
+      "rank": 105,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enhancement",
+        "progress"
+      ],
+      "collocations": [
+        "home improvement",
+        "room for improvement"
+      ]
+    },
+    {
+      "id": "performance",
+      "word": "performance",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "성과",
+        "실적",
+        "공연"
+      ],
+      "example": {
+        "en": "Bonuses are based on individual performance.",
+        "ko": "상여금은 개인 성과에 따라 결정된다."
+      },
+      "rank": 106,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "achievement",
+        "show"
+      ],
+      "collocations": [
+        "performance review",
+        "job performance"
+      ]
+    },
+    {
+      "id": "quality",
+      "word": "quality",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "품질"
+      ],
+      "example": {
+        "en": "We never compromise on the quality of our ingredients.",
+        "ko": "우리는 재료 품질에 결코 타협하지 않는다."
+      },
+      "rank": 107,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "standard",
+        "grade"
+      ],
+      "collocations": [
+        "quality control",
+        "high quality"
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "word": "satisfaction",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "만족"
+      ],
+      "example": {
+        "en": "Customer satisfaction scores rose this year.",
+        "ko": "올해 고객 만족도 점수가 올랐다."
+      },
+      "rank": 108,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "contentment"
+      ],
+      "collocations": [
+        "customer satisfaction",
+        "to one's satisfaction"
+      ]
+    },
+    {
+      "id": "satisfied",
+      "word": "satisfied",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "만족한"
+      ],
+      "example": {
+        "en": "Most guests were satisfied with the room service.",
+        "ko": "대부분의 투숙객은 룸서비스에 만족했다."
+      },
+      "rank": 109,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "pleased",
+        "content"
+      ],
+      "collocations": [
+        "be satisfied with",
+        "satisfied customer"
+      ]
+    },
+    {
+      "id": "complaint",
+      "word": "complaint",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "불만",
+        "항의"
+      ],
+      "example": {
+        "en": "The manager responded to every complaint within a day.",
+        "ko": "관리자는 모든 불만에 하루 안에 답했다."
+      },
+      "rank": 110,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "grievance",
+        "objection"
+      ],
+      "collocations": [
+        "file a complaint",
+        "customer complaint"
+      ]
+    },
+    {
+      "id": "feedback",
+      "word": "feedback",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "의견",
+        "피드백"
+      ],
+      "example": {
+        "en": "We welcome feedback on our new menu.",
+        "ko": "새 메뉴에 대한 의견을 환영합니다."
+      },
+      "rank": 111,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "comments",
+        "response"
+      ],
+      "collocations": [
+        "positive feedback",
+        "provide feedback"
+      ]
+    },
+    {
+      "id": "survey",
+      "word": "survey",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "설문 조사",
+        "조사하다"
+      ],
+      "example": {
+        "en": "We surveyed 500 shoppers about their habits.",
+        "ko": "쇼핑객 500명에게 쇼핑 습관을 조사했다."
+      },
+      "rank": 112,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "poll",
+        "questionnaire"
+      ],
+      "collocations": [
+        "conduct a survey",
+        "survey results"
+      ]
+    },
+    {
+      "id": "result",
+      "word": "result",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "결과",
+        "~의 결과로 생기다"
+      ],
+      "example": {
+        "en": "The test results will be posted online.",
+        "ko": "시험 결과는 온라인에 게시된다."
+      },
+      "rank": 113,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "outcome",
+        "consequence"
+      ],
+      "collocations": [
+        "as a result of",
+        "result in"
+      ]
+    },
+    {
+      "id": "analysis",
+      "word": "analysis",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "분석"
+      ],
+      "example": {
+        "en": "The report includes a detailed analysis of sales trends.",
+        "ko": "보고서에는 매출 동향에 대한 상세 분석이 들어 있다."
+      },
+      "rank": 114,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "examination",
+        "study"
+      ],
+      "collocations": [
+        "data analysis",
+        "market analysis"
+      ]
+    },
+    {
+      "id": "analyze",
+      "word": "analyze",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "분석하다"
+      ],
+      "example": {
+        "en": "Our team analyzed customer data from the past year.",
+        "ko": "우리 팀은 작년 고객 데이터를 분석했다."
+      },
+      "rank": 115,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "examine",
+        "evaluate"
+      ],
+      "collocations": [
+        "analyze data",
+        "carefully analyze"
+      ]
+    },
+    {
+      "id": "research",
+      "word": "research",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "연구",
+        "조사하다"
+      ],
+      "example": {
+        "en": "The firm invests heavily in research and development.",
+        "ko": "그 회사는 연구 개발에 많이 투자한다."
+      },
+      "rank": 116,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "study",
+        "investigation"
+      ],
+      "collocations": [
+        "market research",
+        "conduct research"
+      ]
+    },
+    {
+      "id": "develop",
+      "word": "develop",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "개발하다",
+        "발전시키다"
+      ],
+      "example": {
+        "en": "The team developed a new mobile app for banking.",
+        "ko": "팀은 새로운 모바일 뱅킹 앱을 개발했다."
+      },
+      "rank": 117,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "create",
+        "design"
+      ],
+      "collocations": [
+        "develop a product",
+        "develop skills"
+      ]
+    },
+    {
+      "id": "development",
+      "word": "development",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "개발",
+        "발전"
+      ],
+      "example": {
+        "en": "The development of the new model took two years.",
+        "ko": "신모델 개발에 2년이 걸렸다."
+      },
+      "rank": 118,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "growth",
+        "progress"
+      ],
+      "collocations": [
+        "product development",
+        "professional development"
+      ]
+    },
+    {
+      "id": "launch",
+      "word": "launch",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "출시하다",
+        "착수하다",
+        "출시"
+      ],
+      "example": {
+        "en": "The company launched its new tablet in October.",
+        "ko": "그 회사는 10월에 새 태블릿을 출시했다."
+      },
+      "rank": 119,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "release",
+        "introduce"
+      ],
+      "collocations": [
+        "product launch",
+        "launch a campaign"
+      ]
+    },
+    {
+      "id": "release",
+      "word": "release",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "출시하다",
+        "발표하다",
+        "출시"
+      ],
+      "example": {
+        "en": "The band will release its new album next week.",
+        "ko": "그 밴드는 다음 주 새 앨범을 발매한다."
+      },
+      "rank": 120,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "launch",
+        "issue"
+      ],
+      "collocations": [
+        "press release",
+        "release date"
+      ]
+    },
+    {
+      "id": "promote",
+      "word": "promote",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "승진시키다",
+        "홍보하다"
+      ],
+      "example": {
+        "en": "Ms. Park was promoted to regional manager.",
+        "ko": "박 씨는 지역 매니저로 승진했다."
+      },
+      "rank": 121,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "advance",
+        "advertise"
+      ],
+      "collocations": [
+        "be promoted to",
+        "promote a product"
+      ]
+    },
+    {
+      "id": "promotion",
+      "word": "promotion",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "승진",
+        "판촉"
+      ],
+      "example": {
+        "en": "The store is running a promotion on kitchen appliances.",
+        "ko": "그 매장은 주방 가전 판촉 행사를 하고 있다."
+      },
+      "rank": 122,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "advancement",
+        "campaign"
+      ],
+      "collocations": [
+        "receive a promotion",
+        "sales promotion"
+      ]
+    },
+    {
+      "id": "advertise",
+      "word": "advertise",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "광고하다"
+      ],
+      "example": {
+        "en": "The job was advertised in several local newspapers.",
+        "ko": "그 일자리는 여러 지역 신문에 광고되었다."
+      },
+      "rank": 123,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "promote",
+        "publicize"
+      ],
+      "collocations": [
+        "advertise a position",
+        "advertising agency"
+      ]
+    },
+    {
+      "id": "advertisement",
+      "word": "advertisement",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "광고"
+      ],
+      "example": {
+        "en": "I saw your advertisement for a graphic designer.",
+        "ko": "그래픽 디자이너 채용 광고를 보았습니다."
+      },
+      "rank": 124,
+      "parts": [
+        "Part7"
+      ],
+      "synonyms": [
+        "ad",
+        "commercial"
+      ],
+      "collocations": [
+        "place an advertisement",
+        "newspaper advertisement"
+      ]
+    },
+    {
+      "id": "campaign",
+      "word": "campaign",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "캠페인",
+        "운동"
+      ],
+      "example": {
+        "en": "The advertising campaign targets young professionals.",
+        "ko": "그 광고 캠페인은 젊은 직장인을 겨냥한다."
+      },
+      "rank": 125,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "drive",
+        "promotion"
+      ],
+      "collocations": [
+        "marketing campaign",
+        "launch a campaign"
+      ]
+    },
+    {
+      "id": "client",
+      "word": "client",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "고객",
+        "의뢰인"
+      ],
+      "example": {
+        "en": "The lawyer met with her client to discuss the case.",
+        "ko": "변호사는 사건 논의를 위해 의뢰인을 만났다."
+      },
+      "rank": 126,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "customer",
+        "patron"
+      ],
+      "collocations": [
+        "client list",
+        "meet with a client"
+      ]
+    },
+    {
+      "id": "account",
+      "word": "account",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "계좌",
+        "계정",
+        "고객",
+        "설명하다"
+      ],
+      "example": {
+        "en": "You can check your account balance online.",
+        "ko": "계좌 잔액은 온라인으로 확인할 수 있다."
+      },
+      "rank": 127,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "record",
+        "explain"
+      ],
+      "collocations": [
+        "bank account",
+        "account for",
+        "take into account"
+      ]
+    },
+    {
+      "id": "transfer",
+      "word": "transfer",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "옮기다",
+        "전근 가다",
+        "이체"
+      ],
+      "example": {
+        "en": "Mr. Ito will transfer to the Tokyo branch next month.",
+        "ko": "이토 씨는 다음 달 도쿄 지점으로 전근한다."
+      },
+      "rank": 128,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "move",
+        "relocate"
+      ],
+      "collocations": [
+        "transfer to",
+        "bank transfer"
+      ]
+    },
+    {
+      "id": "branch",
+      "word": "branch",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지점",
+        "지사"
+      ],
+      "example": {
+        "en": "The bank is opening a new branch near the station.",
+        "ko": "그 은행은 역 근처에 새 지점을 연다."
+      },
+      "rank": 129,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "office",
+        "outlet"
+      ],
+      "collocations": [
+        "branch office",
+        "branch manager"
+      ]
+    },
+    {
+      "id": "headquarters",
+      "word": "headquarters",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "본사",
+        "본부"
+      ],
+      "example": {
+        "en": "Our headquarters are located in Singapore.",
+        "ko": "당사 본사는 싱가포르에 있다."
+      },
+      "rank": 130,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "head office",
+        "main office"
+      ],
+      "collocations": [
+        "company headquarters",
+        "relocate headquarters"
+      ]
+    },
+    {
+      "id": "relocate",
+      "word": "relocate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "이전하다",
+        "옮기다"
+      ],
+      "example": {
+        "en": "The firm relocated to a larger building downtown.",
+        "ko": "그 회사는 시내의 더 큰 건물로 이전했다."
+      },
+      "rank": 131,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "move",
+        "transfer"
+      ],
+      "collocations": [
+        "relocate to",
+        "relocation"
+      ]
+    },
+    {
+      "id": "expand",
+      "word": "expand",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "확장하다",
+        "확대하다"
+      ],
+      "example": {
+        "en": "The chain plans to expand into Southeast Asia.",
+        "ko": "그 체인은 동남아시아로 확장할 계획이다."
+      },
+      "rank": 132,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enlarge",
+        "grow"
+      ],
+      "collocations": [
+        "expand operations",
+        "expand into"
+      ]
+    },
+    {
+      "id": "expansion",
+      "word": "expansion",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "확장",
+        "확대"
+      ],
+      "example": {
+        "en": "The airport expansion will add two new terminals.",
+        "ko": "공항 확장으로 터미널 두 곳이 추가된다."
+      },
+      "rank": 133,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "growth",
+        "enlargement"
+      ],
+      "collocations": [
+        "business expansion",
+        "expansion plan"
+      ]
+    },
+    {
+      "id": "merger",
+      "word": "merger",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "합병"
+      ],
+      "example": {
+        "en": "The merger of the two banks was approved last week.",
+        "ko": "두 은행의 합병이 지난주 승인되었다."
+      },
+      "rank": 134,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "consolidation",
+        "union"
+      ],
+      "collocations": [
+        "merger and acquisition",
+        "announce a merger"
+      ]
+    },
+    {
+      "id": "acquire",
+      "word": "acquire",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "인수하다",
+        "습득하다"
+      ],
+      "example": {
+        "en": "The software giant acquired a small startup.",
+        "ko": "그 대형 소프트웨어 업체가 작은 스타트업을 인수했다."
+      },
+      "rank": 135,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "purchase",
+        "obtain"
+      ],
+      "collocations": [
+        "acquire a company",
+        "acquire skills"
+      ]
+    },
+    {
+      "id": "operate",
+      "word": "operate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "운영하다",
+        "작동하다"
+      ],
+      "example": {
+        "en": "The museum operates under a city grant.",
+        "ko": "그 박물관은 시 보조금으로 운영된다."
+      },
+      "rank": 136,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "run",
+        "function"
+      ],
+      "collocations": [
+        "operate a business",
+        "operate machinery"
+      ]
+    },
+    {
+      "id": "operation",
+      "word": "operation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "운영",
+        "작업",
+        "수술"
+      ],
+      "example": {
+        "en": "The new plant will begin operation in July.",
+        "ko": "신규 공장은 7월에 가동을 시작한다."
+      },
+      "rank": 137,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "running",
+        "process"
+      ],
+      "collocations": [
+        "in operation",
+        "business operations"
+      ]
+    },
+    {
+      "id": "management",
+      "word": "management",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "경영(진)",
+        "관리"
+      ],
+      "example": {
+        "en": "Management decided to extend store hours.",
+        "ko": "경영진은 매장 운영 시간을 연장하기로 했다."
+      },
+      "rank": 138,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "administration",
+        "leadership"
+      ],
+      "collocations": [
+        "project management",
+        "senior management"
+      ]
+    },
+    {
+      "id": "executive",
+      "word": "executive",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "meanings": [
+        "임원",
+        "경영의"
+      ],
+      "example": {
+        "en": "The executive committee meets every Monday.",
+        "ko": "임원 위원회는 매주 월요일에 모인다."
+      },
+      "rank": 139,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "director",
+        "managerial"
+      ],
+      "collocations": [
+        "chief executive",
+        "executive board"
+      ]
+    },
+    {
+      "id": "board",
+      "word": "board",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "이사회",
+        "게시판",
+        "탑승하다"
+      ],
+      "example": {
+        "en": "Passengers may now board the plane.",
+        "ko": "승객 여러분은 이제 탑승하실 수 있습니다."
+      },
+      "rank": 140,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "committee",
+        "get on"
+      ],
+      "collocations": [
+        "board of directors",
+        "on board"
+      ]
+    },
+    {
+      "id": "committee",
+      "word": "committee",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "위원회"
+      ],
+      "example": {
+        "en": "A committee was formed to plan the anniversary event.",
+        "ko": "기념 행사를 계획할 위원회가 구성되었다."
+      },
+      "rank": 141,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "panel",
+        "board"
+      ],
+      "collocations": [
+        "planning committee",
+        "committee member"
+      ]
+    },
+    {
+      "id": "director",
+      "word": "director",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "이사",
+        "책임자",
+        "감독"
+      ],
+      "example": {
+        "en": "The sales director presented the annual figures.",
+        "ko": "영업 이사가 연간 실적을 발표했다."
+      },
+      "rank": 142,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "executive",
+        "head"
+      ],
+      "collocations": [
+        "marketing director",
+        "board of directors"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "word": "supervisor",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "감독관",
+        "상사"
+      ],
+      "example": {
+        "en": "Ask your supervisor before changing your shift.",
+        "ko": "근무 시간을 바꾸기 전에 상사에게 물어보세요."
+      },
+      "rank": 143,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "manager",
+        "boss"
+      ],
+      "collocations": [
+        "immediate supervisor",
+        "shift supervisor"
+      ]
+    },
+    {
+      "id": "colleague",
+      "word": "colleague",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "동료"
+      ],
+      "example": {
+        "en": "I'd like to introduce my colleague, Ms. Han.",
+        "ko": "제 동료인 한 씨를 소개하겠습니다."
+      },
+      "rank": 144,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "coworker",
+        "associate"
+      ],
+      "collocations": [
+        "former colleague",
+        "colleague of mine"
+      ]
+    },
+    {
+      "id": "coworker",
+      "word": "coworker",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "동료"
+      ],
+      "example": {
+        "en": "A coworker covered my shift while I was sick.",
+        "ko": "아팠을 때 동료가 내 근무를 대신했다."
+      },
+      "rank": 145,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "colleague",
+        "peer"
+      ],
+      "collocations": [
+        "help a coworker"
+      ]
+    },
+    {
+      "id": "personnel",
+      "word": "personnel",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "인원",
+        "직원",
+        "인사부"
+      ],
+      "example": {
+        "en": "Only authorized personnel may enter the lab.",
+        "ko": "허가받은 직원만 실험실에 들어갈 수 있다."
+      },
+      "rank": 146,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "staff",
+        "employees"
+      ],
+      "collocations": [
+        "personnel department",
+        "medical personnel"
+      ]
+    },
+    {
+      "id": "recruit",
+      "word": "recruit",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "모집하다",
+        "신입 사원"
+      ],
+      "example": {
+        "en": "The firm recruits graduates from local universities.",
+        "ko": "그 회사는 지역 대학 졸업생을 모집한다."
+      },
+      "rank": 147,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "hire",
+        "enlist"
+      ],
+      "collocations": [
+        "recruit staff",
+        "new recruit"
+      ]
+    },
+    {
+      "id": "train",
+      "word": "train",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "교육하다",
+        "훈련하다"
+      ],
+      "example": {
+        "en": "All cashiers are trained to handle refunds.",
+        "ko": "모든 계산원은 환불 처리 교육을 받는다."
+      },
+      "rank": 148,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "instruct",
+        "teach"
+      ],
+      "collocations": [
+        "be trained in",
+        "well trained"
+      ]
+    },
+    {
+      "id": "training",
+      "word": "training",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "교육",
+        "연수"
+      ],
+      "example": {
+        "en": "The training session lasts three days.",
+        "ko": "교육 세션은 3일간 진행된다."
+      },
+      "rank": 149,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "instruction",
+        "coaching"
+      ],
+      "collocations": [
+        "training session",
+        "on-the-job training"
+      ]
+    },
+    {
+      "id": "workshop",
+      "word": "workshop",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "워크숍",
+        "작업장"
+      ],
+      "example": {
+        "en": "She led a workshop on time management.",
+        "ko": "그녀는 시간 관리에 관한 워크숍을 진행했다."
+      },
+      "rank": 150,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "seminar",
+        "class"
+      ],
+      "collocations": [
+        "attend a workshop",
+        "hold a workshop"
+      ]
+    },
+    {
+      "id": "conference",
+      "word": "conference",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "회의",
+        "학회"
+      ],
+      "example": {
+        "en": "The medical conference attracted doctors from twenty countries.",
+        "ko": "그 의학 학회에 20개국 의사들이 모였다."
+      },
+      "rank": 151,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "convention",
+        "symposium"
+      ],
+      "collocations": [
+        "press conference",
+        "conference call"
+      ]
+    },
+    {
+      "id": "presentation",
+      "word": "presentation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "발표",
+        "프레젠테이션"
+      ],
+      "example": {
+        "en": "Mr. Ortiz will give a presentation on the new budget.",
+        "ko": "오르티스 씨가 새 예산에 관해 발표할 것이다."
+      },
+      "rank": 152,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "talk",
+        "demonstration"
+      ],
+      "collocations": [
+        "give a presentation",
+        "sales presentation"
+      ]
+    },
+    {
+      "id": "agenda",
+      "word": "agenda",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "안건",
+        "의제"
+      ],
+      "example": {
+        "en": "The first item on the agenda is the hiring plan.",
+        "ko": "첫 번째 안건은 채용 계획이다."
+      },
+      "rank": 153,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "schedule",
+        "program"
+      ],
+      "collocations": [
+        "meeting agenda",
+        "on the agenda"
+      ]
+    },
+    {
+      "id": "postpone",
+      "word": "postpone",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "연기하다"
+      ],
+      "example": {
+        "en": "The outdoor concert was postponed because of rain.",
+        "ko": "비 때문에 야외 콘서트가 연기되었다."
+      },
+      "rank": 154,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "delay",
+        "put off"
+      ],
+      "collocations": [
+        "postpone until",
+        "be postponed"
+      ]
+    },
+    {
+      "id": "cancel",
+      "word": "cancel",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "취소하다"
+      ],
+      "example": {
+        "en": "The airline canceled all flights due to the storm.",
+        "ko": "항공사는 폭풍으로 모든 항공편을 취소했다."
+      },
+      "rank": 155,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "call off",
+        "abandon"
+      ],
+      "collocations": [
+        "cancel an order",
+        "cancellation fee"
+      ]
+    },
+    {
+      "id": "delay",
+      "word": "delay",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "지연",
+        "지연시키다"
+      ],
+      "example": {
+        "en": "We apologize for the delay in processing your order.",
+        "ko": "주문 처리 지연에 사과드립니다."
+      },
+      "rank": 156,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "postponement",
+        "hold up"
+      ],
+      "collocations": [
+        "without delay",
+        "be delayed"
+      ]
+    },
+    {
+      "id": "arrange",
+      "word": "arrange",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "준비하다",
+        "마련하다",
+        "정리하다"
+      ],
+      "example": {
+        "en": "The assistant arranged a car to pick up the guests.",
+        "ko": "비서가 손님을 태울 차량을 마련했다."
+      },
+      "rank": 157,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "organize",
+        "set up"
+      ],
+      "collocations": [
+        "arrange a meeting",
+        "arrange for"
+      ]
+    },
+    {
+      "id": "arrangement",
+      "word": "arrangement",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "준비",
+        "배치",
+        "합의"
+      ],
+      "example": {
+        "en": "Travel arrangements have been made for the team.",
+        "ko": "팀의 여행 준비가 완료되었다."
+      },
+      "rank": 158,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "plan",
+        "preparation"
+      ],
+      "collocations": [
+        "make arrangements",
+        "seating arrangement"
+      ]
+    },
+    {
+      "id": "organize",
+      "word": "organize",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "조직하다",
+        "준비하다"
+      ],
+      "example": {
+        "en": "The interns organized a farewell party for Ms. Cho.",
+        "ko": "인턴들이 조 씨를 위한 송별회를 준비했다."
+      },
+      "rank": 159,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "arrange",
+        "coordinate"
+      ],
+      "collocations": [
+        "organize an event",
+        "well organized"
+      ]
+    },
+    {
+      "id": "coordinate",
+      "word": "coordinate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "조정하다",
+        "조직화하다"
+      ],
+      "example": {
+        "en": "Ms. Diaz coordinates the work of three design teams.",
+        "ko": "디아즈 씨는 세 디자인 팀의 업무를 조정한다."
+      },
+      "rank": 160,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "organize",
+        "manage"
+      ],
+      "collocations": [
+        "coordinate with",
+        "coordinate efforts"
+      ]
+    },
+    {
+      "id": "participate",
+      "word": "participate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "참가하다"
+      ],
+      "example": {
+        "en": "All employees are encouraged to participate in the survey.",
+        "ko": "모든 직원의 설문 참여를 권장한다."
+      },
+      "rank": 161,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "take part",
+        "join"
+      ],
+      "collocations": [
+        "participate in",
+        "participating companies"
+      ]
+    },
+    {
+      "id": "participant",
+      "word": "participant",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "참가자"
+      ],
+      "example": {
+        "en": "Each participant will receive a certificate.",
+        "ko": "각 참가자는 수료증을 받는다."
+      },
+      "rank": 162,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "attendee",
+        "contestant"
+      ],
+      "collocations": [
+        "workshop participant",
+        "survey participant"
+      ]
+    },
+    {
+      "id": "attendee",
+      "word": "attendee",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "참석자"
+      ],
+      "example": {
+        "en": "Conference attendees can pick up badges in the lobby.",
+        "ko": "학회 참석자는 로비에서 명찰을 받을 수 있다."
+      },
+      "rank": 163,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "participant",
+        "guest"
+      ],
+      "collocations": [
+        "registered attendee"
+      ]
+    },
+    {
+      "id": "register",
+      "word": "register",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "등록하다"
+      ],
+      "example": {
+        "en": "You must register for the seminar by Friday.",
+        "ko": "금요일까지 세미나에 등록해야 한다."
+      },
+      "rank": 164,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enroll",
+        "sign up"
+      ],
+      "collocations": [
+        "register for",
+        "registered mail"
+      ]
+    },
+    {
+      "id": "venue",
+      "word": "venue",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "장소"
+      ],
+      "example": {
+        "en": "The venue for the awards ceremony has changed.",
+        "ko": "시상식 장소가 바뀌었다."
+      },
+      "rank": 165,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "location",
+        "site"
+      ],
+      "collocations": [
+        "event venue",
+        "change of venue"
+      ]
+    },
+    {
+      "id": "accommodate",
+      "word": "accommodate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "수용하다",
+        "편의를 제공하다"
+      ],
+      "example": {
+        "en": "The hall can accommodate up to 400 guests.",
+        "ko": "그 홀은 최대 400명을 수용할 수 있다."
+      },
+      "rank": 166,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "hold",
+        "house"
+      ],
+      "collocations": [
+        "accommodate a request",
+        "be accommodated"
+      ]
+    },
+    {
+      "id": "accommodation",
+      "word": "accommodation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "숙박 시설",
+        "숙소"
+      ],
+      "example": {
+        "en": "The fee includes meals and accommodation.",
+        "ko": "요금에는 식사와 숙박이 포함된다."
+      },
+      "rank": 167,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "lodging",
+        "housing"
+      ],
+      "collocations": [
+        "hotel accommodations",
+        "arrange accommodations"
+      ]
+    },
+    {
+      "id": "itinerary",
+      "word": "itinerary",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "여행 일정표"
+      ],
+      "example": {
+        "en": "Your itinerary has been sent to your e-mail.",
+        "ko": "여행 일정표가 이메일로 발송되었다."
+      },
+      "rank": 168,
+      "parts": [
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "schedule",
+        "travel plan"
+      ],
+      "collocations": [
+        "travel itinerary",
+        "revised itinerary"
+      ]
+    },
+    {
+      "id": "depart",
+      "word": "depart",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "출발하다"
+      ],
+      "example": {
+        "en": "The train departs from Platform 4 at 9:15.",
+        "ko": "기차는 9시 15분에 4번 승강장에서 출발한다."
+      },
+      "rank": 169,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "leave",
+        "set off"
+      ],
+      "collocations": [
+        "depart from",
+        "departure time"
+      ]
+    },
+    {
+      "id": "departure",
+      "word": "departure",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "출발"
+      ],
+      "example": {
+        "en": "Please arrive two hours before departure.",
+        "ko": "출발 두 시간 전까지 도착해 주세요."
+      },
+      "rank": 170,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "leaving",
+        "exit"
+      ],
+      "collocations": [
+        "departure gate",
+        "prior to departure"
+      ]
+    },
+    {
+      "id": "arrival",
+      "word": "arrival",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "도착"
+      ],
+      "example": {
+        "en": "Guests will be greeted upon arrival.",
+        "ko": "손님들은 도착하면 환영받는다."
+      },
+      "rank": 171,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "coming",
+        "entrance"
+      ],
+      "collocations": [
+        "upon arrival",
+        "arrival time"
+      ]
+    },
+    {
+      "id": "destination",
+      "word": "destination",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "목적지",
+        "행선지"
+      ],
+      "example": {
+        "en": "Jeju is a popular destination for families.",
+        "ko": "제주는 가족들에게 인기 있는 여행지다."
+      },
+      "rank": 172,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "endpoint",
+        "goal"
+      ],
+      "collocations": [
+        "travel destination",
+        "final destination"
+      ]
+    },
+    {
+      "id": "passenger",
+      "word": "passenger",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "승객"
+      ],
+      "example": {
+        "en": "Passengers should keep their bags with them at all times.",
+        "ko": "승객은 항상 가방을 소지해야 한다."
+      },
+      "rank": 173,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "traveler",
+        "rider"
+      ],
+      "collocations": [
+        "passenger seat",
+        "airline passenger"
+      ]
+    },
+    {
+      "id": "fare",
+      "word": "fare",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "요금",
+        "운임"
+      ],
+      "example": {
+        "en": "Bus fares will increase next month.",
+        "ko": "버스 요금이 다음 달 인상된다."
+      },
+      "rank": 174,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "fee",
+        "charge"
+      ],
+      "collocations": [
+        "round-trip fare",
+        "taxi fare"
+      ]
+    },
+    {
+      "id": "commute",
+      "word": "commute",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "통근하다",
+        "통근"
+      ],
+      "example": {
+        "en": "Many employees commute by subway.",
+        "ko": "많은 직원이 지하철로 통근한다."
+      },
+      "rank": 175,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "travel"
+      ],
+      "collocations": [
+        "commute to work",
+        "daily commute"
+      ]
+    },
+    {
+      "id": "vehicle",
+      "word": "vehicle",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "차량",
+        "수단"
+      ],
+      "example": {
+        "en": "All vehicles must be parked in marked spaces.",
+        "ko": "모든 차량은 표시된 칸에 주차해야 한다."
+      },
+      "rank": 176,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "car",
+        "automobile"
+      ],
+      "collocations": [
+        "company vehicle",
+        "rental vehicle"
+      ]
+    },
+    {
+      "id": "parking",
+      "word": "parking",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "주차"
+      ],
+      "example": {
+        "en": "Free parking is available behind the building.",
+        "ko": "건물 뒤에 무료 주차가 가능하다."
+      },
+      "rank": 177,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "parking space"
+      ],
+      "collocations": [
+        "parking lot",
+        "parking permit"
+      ]
+    },
+    {
+      "id": "construction",
+      "word": "construction",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "건설",
+        "공사"
+      ],
+      "example": {
+        "en": "Construction of the new stadium began in April.",
+        "ko": "새 경기장 공사가 4월에 시작되었다."
+      },
+      "rank": 178,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "building",
+        "development"
+      ],
+      "collocations": [
+        "under construction",
+        "construction site"
+      ]
+    },
+    {
+      "id": "renovate",
+      "word": "renovate",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "개조하다",
+        "보수하다"
+      ],
+      "example": {
+        "en": "The hotel renovated all of its guest rooms.",
+        "ko": "그 호텔은 모든 객실을 리모델링했다."
+      },
+      "rank": 179,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "remodel",
+        "refurbish"
+      ],
+      "collocations": [
+        "renovate a building",
+        "newly renovated"
+      ]
+    },
+    {
+      "id": "renovation",
+      "word": "renovation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "보수",
+        "개조"
+      ],
+      "example": {
+        "en": "The lobby is closed for renovation until June.",
+        "ko": "로비는 6월까지 보수 공사로 폐쇄된다."
+      },
+      "rank": 180,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "remodeling",
+        "restoration"
+      ],
+      "collocations": [
+        "under renovation",
+        "renovation work"
+      ]
+    },
+    {
+      "id": "property",
+      "word": "property",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "부동산",
+        "재산",
+        "건물"
+      ],
+      "example": {
+        "en": "The property includes a garden and a garage.",
+        "ko": "그 부동산에는 정원과 차고가 있다."
+      },
+      "rank": 181,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "real estate",
+        "asset"
+      ],
+      "collocations": [
+        "rental property",
+        "property manager"
+      ]
+    },
+    {
+      "id": "lease",
+      "word": "lease",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "임대차 계약",
+        "임대하다"
+      ],
+      "example": {
+        "en": "The company signed a five-year lease on the office.",
+        "ko": "회사는 사무실에 대해 5년 임대 계약을 맺었다."
+      },
+      "rank": 182,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "rent",
+        "rental agreement"
+      ],
+      "collocations": [
+        "sign a lease",
+        "lease agreement"
+      ]
+    },
+    {
+      "id": "rent",
+      "word": "rent",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "임대료",
+        "임대하다"
+      ],
+      "example": {
+        "en": "The rent includes water and electricity.",
+        "ko": "임대료에 수도와 전기 요금이 포함된다."
+      },
+      "rank": 183,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "lease",
+        "hire"
+      ],
+      "collocations": [
+        "monthly rent",
+        "rent a car"
+      ]
+    },
+    {
+      "id": "tenant",
+      "word": "tenant",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "세입자"
+      ],
+      "example": {
+        "en": "Tenants must give thirty days' notice before moving out.",
+        "ko": "세입자는 이사 30일 전에 통보해야 한다."
+      },
+      "rank": 184,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "renter",
+        "occupant"
+      ],
+      "collocations": [
+        "current tenant",
+        "tenant association"
+      ]
+    },
+    {
+      "id": "resident",
+      "word": "resident",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "주민",
+        "거주자"
+      ],
+      "example": {
+        "en": "Residents are invited to a town hall meeting.",
+        "ko": "주민들이 주민 회의에 초대된다."
+      },
+      "rank": 185,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "inhabitant",
+        "local"
+      ],
+      "collocations": [
+        "local resident",
+        "resident of"
+      ]
+    },
+    {
+      "id": "community",
+      "word": "community",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지역 사회",
+        "공동체"
+      ],
+      "example": {
+        "en": "The bank sponsors many community events.",
+        "ko": "그 은행은 여러 지역 사회 행사를 후원한다."
+      },
+      "rank": 186,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "neighborhood",
+        "society"
+      ],
+      "collocations": [
+        "local community",
+        "community center"
+      ]
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "meanings": [
+        "지역의",
+        "현지인"
+      ],
+      "example": {
+        "en": "We buy produce from local farmers.",
+        "ko": "우리는 지역 농부에게서 농산물을 산다."
+      },
+      "rank": 187,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "regional",
+        "nearby"
+      ],
+      "collocations": [
+        "local business",
+        "local time"
+      ]
+    },
+    {
+      "id": "public",
+      "word": "public",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "meanings": [
+        "공공의",
+        "대중"
+      ],
+      "example": {
+        "en": "The garden is open to the public on weekends.",
+        "ko": "그 정원은 주말에 일반인에게 개방된다."
+      },
+      "rank": 188,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "communal",
+        "people"
+      ],
+      "collocations": [
+        "open to the public",
+        "public transportation"
+      ]
+    },
+    {
+      "id": "government",
+      "word": "government",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "정부"
+      ],
+      "example": {
+        "en": "The government offers tax benefits to small businesses.",
+        "ko": "정부는 소기업에 세금 혜택을 준다."
+      },
+      "rank": 189,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "administration",
+        "state"
+      ],
+      "collocations": [
+        "local government",
+        "government agency"
+      ]
+    },
+    {
+      "id": "regulation",
+      "word": "regulation",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "규정",
+        "규제"
+      ],
+      "example": {
+        "en": "Safety regulations require helmets on the site.",
+        "ko": "안전 규정상 현장에서는 헬멧을 써야 한다."
+      },
+      "rank": 190,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "rule",
+        "guideline"
+      ],
+      "collocations": [
+        "safety regulations",
+        "comply with regulations"
+      ]
+    },
+    {
+      "id": "comply",
+      "word": "comply",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "준수하다",
+        "따르다"
+      ],
+      "example": {
+        "en": "All products comply with international standards.",
+        "ko": "모든 제품은 국제 기준을 준수한다."
+      },
+      "rank": 191,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "obey",
+        "conform"
+      ],
+      "collocations": [
+        "comply with",
+        "failure to comply"
+      ]
+    },
+    {
+      "id": "compliance",
+      "word": "compliance",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "준수"
+      ],
+      "example": {
+        "en": "The audit checks compliance with tax laws.",
+        "ko": "감사는 세법 준수 여부를 점검한다."
+      },
+      "rank": 192,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "conformity",
+        "adherence"
+      ],
+      "collocations": [
+        "in compliance with"
+      ]
+    },
+    {
+      "id": "permit",
+      "word": "permit",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "허가증",
+        "허락하다"
+      ],
+      "example": {
+        "en": "Smoking is not permitted inside the building.",
+        "ko": "건물 안에서는 흡연이 허용되지 않는다."
+      },
+      "rank": 193,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "license",
+        "allow"
+      ],
+      "collocations": [
+        "parking permit",
+        "building permit"
+      ]
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "허가",
+        "허락"
+      ],
+      "example": {
+        "en": "You need written permission to use the logo.",
+        "ko": "로고를 사용하려면 서면 허가가 필요하다."
+      },
+      "rank": 194,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "authorization",
+        "consent"
+      ],
+      "collocations": [
+        "with permission",
+        "ask for permission"
+      ]
+    },
+    {
+      "id": "authorize",
+      "word": "authorize",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "권한을 주다",
+        "승인하다"
+      ],
+      "example": {
+        "en": "Only managers can authorize overtime pay.",
+        "ko": "관리자만 초과 근무 수당을 승인할 수 있다."
+      },
+      "rank": 195,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "approve",
+        "permit"
+      ],
+      "collocations": [
+        "authorized personnel",
+        "authorized dealer"
+      ]
+    },
+    {
+      "id": "access",
+      "word": "access",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "접근(권)",
+        "이용",
+        "접속하다"
+      ],
+      "example": {
+        "en": "Employees can access the files from home.",
+        "ko": "직원들은 집에서 파일에 접속할 수 있다."
+      },
+      "rank": 196,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "entry",
+        "reach"
+      ],
+      "collocations": [
+        "have access to",
+        "access code"
+      ]
+    },
+    {
+      "id": "secure",
+      "word": "secure",
+      "pos": [
+        "adj",
+        "v"
+      ],
+      "meanings": [
+        "안전한",
+        "확보하다"
+      ],
+      "example": {
+        "en": "The startup secured funding from two investors.",
+        "ko": "그 스타트업은 두 투자자로부터 자금을 확보했다."
+      },
+      "rank": 197,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "safe",
+        "obtain"
+      ],
+      "collocations": [
+        "secure a loan",
+        "secure location"
+      ]
+    },
+    {
+      "id": "security",
+      "word": "security",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "보안",
+        "경비"
+      ],
+      "example": {
+        "en": "Please show your ID to the security guard.",
+        "ko": "경비원에게 신분증을 보여 주세요."
+      },
+      "rank": 198,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "protection",
+        "safety"
+      ],
+      "collocations": [
+        "security guard",
+        "security check"
+      ]
+    },
+    {
+      "id": "identification",
+      "word": "identification",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "신분 증명(서)"
+      ],
+      "example": {
+        "en": "Bring a photo identification to the exam.",
+        "ko": "시험에 사진이 있는 신분증을 가져오세요."
+      },
+      "rank": 199,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "ID",
+        "proof of identity"
+      ],
+      "collocations": [
+        "photo identification",
+        "identification card"
+      ]
+    },
+    {
+      "id": "document",
+      "word": "document",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "문서",
+        "기록하다"
+      ],
+      "example": {
+        "en": "Please sign the document and return it by mail.",
+        "ko": "문서에 서명하여 우편으로 돌려보내 주세요."
+      },
+      "rank": 200,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "file",
+        "paper"
+      ],
+      "collocations": [
+        "legal document",
+        "supporting documents"
+      ]
+    },
+    {
+      "id": "file",
+      "word": "file",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "파일",
+        "서류철",
+        "제출하다"
+      ],
+      "example": {
+        "en": "The customer filed a complaint about the noise.",
+        "ko": "고객이 소음에 대해 불만을 제기했다."
+      },
+      "rank": 201,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "record",
+        "submit"
+      ],
+      "collocations": [
+        "file a claim",
+        "on file"
+      ]
+    },
+    {
+      "id": "form",
+      "word": "form",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "서식",
+        "양식",
+        "형성하다"
+      ],
+      "example": {
+        "en": "Fill out this form and hand it to the receptionist.",
+        "ko": "이 양식을 작성해 접수원에게 주세요."
+      },
+      "rank": 202,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "document",
+        "create"
+      ],
+      "collocations": [
+        "application form",
+        "fill out a form"
+      ]
+    },
+    {
+      "id": "detail",
+      "word": "detail",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "세부 사항",
+        "상술하다"
+      ],
+      "example": {
+        "en": "The brochure details the features of each model.",
+        "ko": "안내책자에 각 모델의 기능이 상세히 나와 있다."
+      },
+      "rank": 203,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "particular",
+        "describe"
+      ],
+      "collocations": [
+        "in detail",
+        "for details"
+      ]
+    },
+    {
+      "id": "detailed",
+      "word": "detailed",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "상세한"
+      ],
+      "example": {
+        "en": "A detailed map is available at the front desk.",
+        "ko": "안내데스크에 상세 지도가 있다."
+      },
+      "rank": 204,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "thorough",
+        "comprehensive"
+      ],
+      "collocations": [
+        "detailed description",
+        "detailed report"
+      ]
+    },
+    {
+      "id": "describe",
+      "word": "describe",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "설명하다",
+        "묘사하다"
+      ],
+      "example": {
+        "en": "Please describe the problem you are having.",
+        "ko": "겪고 있는 문제를 설명해 주세요."
+      },
+      "rank": 205,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "explain",
+        "depict"
+      ],
+      "collocations": [
+        "describe in detail",
+        "as described"
+      ]
+    },
+    {
+      "id": "description",
+      "word": "description",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "설명",
+        "묘사"
+      ],
+      "example": {
+        "en": "The job description lists the required skills.",
+        "ko": "직무 설명서에 필요한 기술이 나와 있다."
+      },
+      "rank": 206,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "account",
+        "explanation"
+      ],
+      "collocations": [
+        "job description",
+        "product description"
+      ]
+    },
+    {
+      "id": "instruction",
+      "word": "instruction",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지시",
+        "설명(서)"
+      ],
+      "example": {
+        "en": "Follow the instructions to assemble the desk.",
+        "ko": "설명서를 따라 책상을 조립하세요."
+      },
+      "rank": 207,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "direction",
+        "guideline"
+      ],
+      "collocations": [
+        "follow instructions",
+        "assembly instructions"
+      ]
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "방향",
+        "지시",
+        "길 안내"
+      ],
+      "example": {
+        "en": "Could you give me directions to the train station?",
+        "ko": "기차역 가는 길을 알려 주시겠어요?"
+      },
+      "rank": 208,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "instruction",
+        "route"
+      ],
+      "collocations": [
+        "in the direction of",
+        "under the direction of"
+      ]
+    },
+    {
+      "id": "guideline",
+      "word": "guideline",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지침"
+      ],
+      "example": {
+        "en": "The new guidelines explain how to report expenses.",
+        "ko": "새 지침은 경비 보고 방법을 설명한다."
+      },
+      "rank": 209,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "rule",
+        "instruction"
+      ],
+      "collocations": [
+        "follow guidelines",
+        "safety guidelines"
+      ]
+    },
+    {
+      "id": "procedure",
+      "word": "procedure",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "절차"
+      ],
+      "example": {
+        "en": "The procedure for requesting leave has changed.",
+        "ko": "휴가 신청 절차가 바뀌었다."
+      },
+      "rank": 210,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "process",
+        "method"
+      ],
+      "collocations": [
+        "safety procedures",
+        "standard procedure"
+      ]
+    },
+    {
+      "id": "process",
+      "word": "process",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "과정",
+        "절차",
+        "처리하다"
+      ],
+      "example": {
+        "en": "Orders are processed within 24 hours.",
+        "ko": "주문은 24시간 이내에 처리된다."
+      },
+      "rank": 211,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "procedure",
+        "handle"
+      ],
+      "collocations": [
+        "in the process of",
+        "process an order"
+      ]
+    },
+    {
+      "id": "method",
+      "word": "method",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "방법"
+      ],
+      "example": {
+        "en": "We use a new method to track inventory.",
+        "ko": "우리는 새로운 방법으로 재고를 추적한다."
+      },
+      "rank": 212,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "way",
+        "technique"
+      ],
+      "collocations": [
+        "payment method",
+        "teaching method"
+      ]
+    },
+    {
+      "id": "option",
+      "word": "option",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "선택(지)"
+      ],
+      "example": {
+        "en": "Customers have the option of paying in installments.",
+        "ko": "고객은 할부로 결제할 수 있는 선택권이 있다."
+      },
+      "rank": 213,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "choice",
+        "alternative"
+      ],
+      "collocations": [
+        "payment option",
+        "have the option to"
+      ]
+    },
+    {
+      "id": "alternative",
+      "word": "alternative",
+      "pos": [
+        "n",
+        "adj"
+      ],
+      "meanings": [
+        "대안",
+        "대체의"
+      ],
+      "example": {
+        "en": "We are looking for an alternative to plastic packaging.",
+        "ko": "플라스틱 포장의 대안을 찾고 있다."
+      },
+      "rank": 214,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "option",
+        "substitute"
+      ],
+      "collocations": [
+        "alternative route",
+        "as an alternative"
+      ]
+    },
+    {
+      "id": "benefit",
+      "word": "benefit",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "혜택",
+        "이익",
+        "이익을 얻다"
+      ],
+      "example": {
+        "en": "Full-time staff receive health benefits.",
+        "ko": "정규직 직원은 건강 보험 혜택을 받는다."
+      },
+      "rank": 215,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "advantage",
+        "perk"
+      ],
+      "collocations": [
+        "benefit from",
+        "employee benefits"
+      ]
+    },
+    {
+      "id": "advantage",
+      "word": "advantage",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "이점",
+        "장점"
+      ],
+      "example": {
+        "en": "Our main advantage is fast delivery.",
+        "ko": "우리의 주된 장점은 빠른 배송이다."
+      },
+      "rank": 216,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "benefit",
+        "strength"
+      ],
+      "collocations": [
+        "take advantage of",
+        "competitive advantage"
+      ]
+    },
+    {
+      "id": "feature",
+      "word": "feature",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "특징",
+        "기능",
+        "특별히 포함하다"
+      ],
+      "example": {
+        "en": "The new phone features a larger screen.",
+        "ko": "새 휴대폰은 더 큰 화면을 갖췄다."
+      },
+      "rank": 217,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "characteristic",
+        "highlight"
+      ],
+      "collocations": [
+        "key feature",
+        "be featured in"
+      ]
+    },
+    {
+      "id": "function",
+      "word": "function",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "기능",
+        "행사",
+        "작동하다"
+      ],
+      "example": {
+        "en": "The printer is not functioning properly.",
+        "ko": "프린터가 제대로 작동하지 않는다."
+      },
+      "rank": 218,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "operate",
+        "role"
+      ],
+      "collocations": [
+        "function properly",
+        "social function"
+      ]
+    },
+    {
+      "id": "capacity",
+      "word": "capacity",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "수용력",
+        "용량",
+        "능력"
+      ],
+      "example": {
+        "en": "The theater has a seating capacity of 800.",
+        "ko": "그 극장의 좌석 수용 인원은 800명이다."
+      },
+      "rank": 219,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "volume",
+        "ability"
+      ],
+      "collocations": [
+        "seating capacity",
+        "at full capacity"
+      ]
+    },
+    {
+      "id": "demand",
+      "word": "demand",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "수요",
+        "요구",
+        "요구하다"
+      ],
+      "example": {
+        "en": "Demand for electric bikes has grown rapidly.",
+        "ko": "전기 자전거 수요가 빠르게 늘었다."
+      },
+      "rank": 220,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "need",
+        "request"
+      ],
+      "collocations": [
+        "in demand",
+        "meet demand"
+      ]
+    },
+    {
+      "id": "growth",
+      "word": "growth",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "성장"
+      ],
+      "example": {
+        "en": "The region has seen steady economic growth.",
+        "ko": "그 지역은 꾸준한 경제 성장을 보였다."
+      },
+      "rank": 221,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "expansion",
+        "increase"
+      ],
+      "collocations": [
+        "economic growth",
+        "rapid growth"
+      ]
+    },
+    {
+      "id": "decline",
+      "word": "decline",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "감소하다",
+        "거절하다",
+        "감소"
+      ],
+      "example": {
+        "en": "Ticket sales declined slightly last month.",
+        "ko": "지난달 티켓 판매가 약간 감소했다."
+      },
+      "rank": 222,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "decrease",
+        "refuse"
+      ],
+      "collocations": [
+        "decline an offer",
+        "sharp decline"
+      ]
+    },
+    {
+      "id": "decrease",
+      "word": "decrease",
+      "pos": [
+        "v",
+        "n"
+      ],
+      "meanings": [
+        "감소하다",
+        "감소"
+      ],
+      "example": {
+        "en": "The use of paper has decreased since we went digital.",
+        "ko": "디지털화 이후 종이 사용이 줄었다."
+      },
+      "rank": 223,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reduce",
+        "drop"
+      ],
+      "collocations": [
+        "decrease in",
+        "significant decrease"
+      ]
+    },
+    {
+      "id": "reduce",
+      "word": "reduce",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "줄이다"
+      ],
+      "example": {
+        "en": "The new lights will reduce energy costs.",
+        "ko": "새 조명은 에너지 비용을 줄여 줄 것이다."
+      },
+      "rank": 224,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "cut",
+        "lower"
+      ],
+      "collocations": [
+        "reduce costs",
+        "reduced price"
+      ]
+    },
+    {
+      "id": "reduction",
+      "word": "reduction",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "감소",
+        "할인"
+      ],
+      "example": {
+        "en": "We are offering a price reduction on older models.",
+        "ko": "구형 모델의 가격을 인하하고 있다."
+      },
+      "rank": 225,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "decrease",
+        "cut"
+      ],
+      "collocations": [
+        "cost reduction",
+        "price reduction"
+      ]
+    },
+    {
+      "id": "significant",
+      "word": "significant",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "상당한",
+        "중요한"
+      ],
+      "example": {
+        "en": "There has been a significant rise in online orders.",
+        "ko": "온라인 주문이 상당히 증가했다."
+      },
+      "rank": 226,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "considerable",
+        "important"
+      ],
+      "collocations": [
+        "significant increase",
+        "significant impact"
+      ]
+    },
+    {
+      "id": "significantly",
+      "word": "significantly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "상당히"
+      ],
+      "example": {
+        "en": "Wait times have been significantly reduced.",
+        "ko": "대기 시간이 상당히 줄었다."
+      },
+      "rank": 227,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "considerably",
+        "substantially"
+      ],
+      "collocations": [
+        "significantly higher",
+        "significantly improve"
+      ]
+    },
+    {
+      "id": "considerable",
+      "word": "considerable",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "상당한"
+      ],
+      "example": {
+        "en": "The project required a considerable amount of time.",
+        "ko": "그 프로젝트에는 상당한 시간이 들었다."
+      },
+      "rank": 228,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "substantial",
+        "significant"
+      ],
+      "collocations": [
+        "considerable effort",
+        "considerable amount"
+      ]
+    },
+    {
+      "id": "substantial",
+      "word": "substantial",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "상당한",
+        "실질적인"
+      ],
+      "example": {
+        "en": "The firm made a substantial investment in solar power.",
+        "ko": "그 회사는 태양광에 상당한 투자를 했다."
+      },
+      "rank": 229,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "considerable",
+        "large"
+      ],
+      "collocations": [
+        "substantial increase",
+        "substantial amount"
+      ]
+    },
+    {
+      "id": "sufficient",
+      "word": "sufficient",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "충분한"
+      ],
+      "example": {
+        "en": "There is sufficient space for twenty cars.",
+        "ko": "차 20대를 댈 충분한 공간이 있다."
+      },
+      "rank": 230,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "enough",
+        "adequate"
+      ],
+      "collocations": [
+        "sufficient funds",
+        "sufficient time"
+      ]
+    },
+    {
+      "id": "adequate",
+      "word": "adequate",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "적절한",
+        "충분한"
+      ],
+      "example": {
+        "en": "The room has adequate lighting for reading.",
+        "ko": "그 방은 독서하기에 충분한 조명이 있다."
+      },
+      "rank": 231,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "sufficient",
+        "suitable"
+      ],
+      "collocations": [
+        "adequate supply",
+        "adequate training"
+      ]
+    },
+    {
+      "id": "appropriate",
+      "word": "appropriate",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "적절한"
+      ],
+      "example": {
+        "en": "Please wear appropriate clothing for the factory tour.",
+        "ko": "공장 견학에 적절한 복장을 착용해 주세요."
+      },
+      "rank": 232,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "suitable",
+        "proper"
+      ],
+      "collocations": [
+        "appropriate for",
+        "take appropriate action"
+      ]
+    },
+    {
+      "id": "eligible",
+      "word": "eligible",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "자격이 있는"
+      ],
+      "example": {
+        "en": "Staff are eligible for paid leave after six months.",
+        "ko": "직원은 6개월 후 유급 휴가를 받을 자격이 생긴다."
+      },
+      "rank": 233,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "qualified",
+        "entitled"
+      ],
+      "collocations": [
+        "be eligible for",
+        "be eligible to do"
+      ]
+    },
+    {
+      "id": "entitled",
+      "word": "entitled",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "자격이 있는",
+        "~라는 제목의"
+      ],
+      "example": {
+        "en": "Members are entitled to free admission.",
+        "ko": "회원은 무료 입장 자격이 있다."
+      },
+      "rank": 234,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "eligible",
+        "qualified"
+      ],
+      "collocations": [
+        "be entitled to",
+        "a book entitled"
+      ]
+    },
+    {
+      "id": "mandatory",
+      "word": "mandatory",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "의무적인"
+      ],
+      "example": {
+        "en": "Attendance at the safety briefing is mandatory.",
+        "ko": "안전 브리핑 참석은 의무다."
+      },
+      "rank": 235,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "compulsory",
+        "required"
+      ],
+      "collocations": [
+        "mandatory training",
+        "mandatory for"
+      ]
+    },
+    {
+      "id": "optional",
+      "word": "optional",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "선택적인"
+      ],
+      "example": {
+        "en": "The evening tour is optional and costs extra.",
+        "ko": "저녁 투어는 선택 사항이며 추가 요금이 있다."
+      },
+      "rank": 236,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "voluntary",
+        "elective"
+      ],
+      "collocations": [
+        "optional extra"
+      ]
+    },
+    {
+      "id": "temporary",
+      "word": "temporary",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "임시의",
+        "일시적인"
+      ],
+      "example": {
+        "en": "The road closure is only temporary.",
+        "ko": "도로 폐쇄는 일시적일 뿐이다."
+      },
+      "rank": 237,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "short-term",
+        "interim"
+      ],
+      "collocations": [
+        "temporary worker",
+        "temporary position"
+      ]
+    },
+    {
+      "id": "permanent",
+      "word": "permanent",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "영구적인",
+        "정규의"
+      ],
+      "example": {
+        "en": "She was offered a permanent position after the internship.",
+        "ko": "그녀는 인턴십 후 정규직을 제안받았다."
+      },
+      "rank": 238,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "lasting",
+        "fixed"
+      ],
+      "collocations": [
+        "permanent staff",
+        "permanent address"
+      ]
+    },
+    {
+      "id": "previous",
+      "word": "previous",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "이전의"
+      ],
+      "example": {
+        "en": "The previous owner painted the walls white.",
+        "ko": "이전 소유주가 벽을 흰색으로 칠했다."
+      },
+      "rank": 239,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "former",
+        "prior"
+      ],
+      "collocations": [
+        "previous experience",
+        "previous year"
+      ]
+    },
+    {
+      "id": "prior",
+      "word": "prior",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "이전의",
+        "우선하는"
+      ],
+      "example": {
+        "en": "Prior experience in sales is preferred.",
+        "ko": "영업 경력자 우대."
+      },
+      "rank": 240,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "previous",
+        "earlier"
+      ],
+      "collocations": [
+        "prior to",
+        "prior notice"
+      ]
+    },
+    {
+      "id": "former",
+      "word": "former",
+      "pos": [
+        "adj",
+        "n"
+      ],
+      "meanings": [
+        "이전의",
+        "전자"
+      ],
+      "example": {
+        "en": "The former CEO now teaches at a university.",
+        "ko": "전 CEO는 현재 대학에서 강의한다."
+      },
+      "rank": 241,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "previous",
+        "ex-"
+      ],
+      "collocations": [
+        "former employee",
+        "the former"
+      ]
+    },
+    {
+      "id": "upcoming",
+      "word": "upcoming",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "다가오는"
+      ],
+      "example": {
+        "en": "Details of the upcoming sale will be posted soon.",
+        "ko": "다가오는 할인 행사 내용이 곧 게시된다."
+      },
+      "rank": 242,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "forthcoming",
+        "approaching"
+      ],
+      "collocations": [
+        "upcoming event",
+        "upcoming meeting"
+      ]
+    },
+    {
+      "id": "following",
+      "word": "following",
+      "pos": [
+        "adj",
+        "prep"
+      ],
+      "meanings": [
+        "다음의",
+        "~후에"
+      ],
+      "example": {
+        "en": "The results will be announced the following week.",
+        "ko": "결과는 그다음 주에 발표된다."
+      },
+      "rank": 243,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "next",
+        "after"
+      ],
+      "collocations": [
+        "the following day",
+        "following the meeting"
+      ]
+    },
+    {
+      "id": "latest",
+      "word": "latest",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "최신의"
+      ],
+      "example": {
+        "en": "Our latest model uses half the power.",
+        "ko": "최신 모델은 전력을 절반만 쓴다."
+      },
+      "rank": 244,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "newest",
+        "most recent"
+      ],
+      "collocations": [
+        "latest version",
+        "latest news"
+      ]
+    },
+    {
+      "id": "valid",
+      "word": "valid",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "유효한"
+      ],
+      "example": {
+        "en": "This coupon is valid until the end of the month.",
+        "ko": "이 쿠폰은 이달 말까지 유효하다."
+      },
+      "rank": 245,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "effective",
+        "usable"
+      ],
+      "collocations": [
+        "valid ID",
+        "valid for"
+      ]
+    },
+    {
+      "id": "expire",
+      "word": "expire",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "만료되다"
+      ],
+      "example": {
+        "en": "Your membership will expire on December 31.",
+        "ko": "회원권은 12월 31일에 만료된다."
+      },
+      "rank": 246,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "end",
+        "lapse"
+      ],
+      "collocations": [
+        "expiration date",
+        "expire soon"
+      ]
+    },
+    {
+      "id": "renew",
+      "word": "renew",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "갱신하다"
+      ],
+      "example": {
+        "en": "Don't forget to renew your passport before the trip.",
+        "ko": "여행 전에 여권을 갱신하는 것을 잊지 마세요."
+      },
+      "rank": 247,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "extend",
+        "update"
+      ],
+      "collocations": [
+        "renew a contract",
+        "renew a subscription"
+      ]
+    },
+    {
+      "id": "subscription",
+      "word": "subscription",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "구독",
+        "가입"
+      ],
+      "example": {
+        "en": "A yearly subscription costs 60 dollars.",
+        "ko": "1년 구독료는 60달러다."
+      },
+      "rank": 248,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "membership"
+      ],
+      "collocations": [
+        "cancel a subscription",
+        "subscription fee"
+      ]
+    },
+    {
+      "id": "membership",
+      "word": "membership",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "회원(권)",
+        "회원 자격"
+      ],
+      "example": {
+        "en": "Membership includes access to the pool.",
+        "ko": "회원권에는 수영장 이용이 포함된다."
+      },
+      "rank": 249,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "subscription"
+      ],
+      "collocations": [
+        "membership fee",
+        "renew one's membership"
+      ]
+    },
+    {
+      "id": "fee",
+      "word": "fee",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "수수료",
+        "요금"
+      ],
+      "example": {
+        "en": "There is no fee for withdrawing cash.",
+        "ko": "현금 인출 수수료는 없다."
+      },
+      "rank": 250,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "charge",
+        "cost"
+      ],
+      "collocations": [
+        "registration fee",
+        "late fee"
+      ]
+    },
+    {
+      "id": "charge",
+      "word": "charge",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "요금",
+        "청구하다",
+        "담당"
+      ],
+      "example": {
+        "en": "The hotel charged us for an extra night.",
+        "ko": "호텔이 1박 요금을 추가로 청구했다."
+      },
+      "rank": 251,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "fee",
+        "bill"
+      ],
+      "collocations": [
+        "free of charge",
+        "in charge of"
+      ]
+    },
+    {
+      "id": "payment",
+      "word": "payment",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "지불",
+        "납부"
+      ],
+      "example": {
+        "en": "Payment is due within thirty days of delivery.",
+        "ko": "대금은 배송 후 30일 이내에 지불해야 한다."
+      },
+      "rank": 252,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "settlement",
+        "remittance"
+      ],
+      "collocations": [
+        "make a payment",
+        "payment method"
+      ]
+    },
+    {
+      "id": "balance",
+      "word": "balance",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "잔액",
+        "균형"
+      ],
+      "example": {
+        "en": "Please pay the remaining balance by Friday.",
+        "ko": "잔액을 금요일까지 지불해 주세요."
+      },
+      "rank": 253,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "remainder",
+        "equilibrium"
+      ],
+      "collocations": [
+        "account balance",
+        "work-life balance"
+      ]
+    },
+    {
+      "id": "finance",
+      "word": "finance",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "재정",
+        "금융",
+        "자금을 대다"
+      ],
+      "example": {
+        "en": "The city will finance the new park.",
+        "ko": "시에서 새 공원 자금을 댈 것이다."
+      },
+      "rank": 254,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "fund",
+        "economics"
+      ],
+      "collocations": [
+        "finance department",
+        "personal finance"
+      ]
+    },
+    {
+      "id": "financial",
+      "word": "financial",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "재정의",
+        "금융의"
+      ],
+      "example": {
+        "en": "The company published its financial statements.",
+        "ko": "그 회사는 재무제표를 공개했다."
+      },
+      "rank": 255,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "fiscal",
+        "economic"
+      ],
+      "collocations": [
+        "financial report",
+        "financial advisor"
+      ]
+    },
+    {
+      "id": "fund",
+      "word": "fund",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "기금",
+        "자금을 대다"
+      ],
+      "example": {
+        "en": "The project is funded by a government grant.",
+        "ko": "그 프로젝트는 정부 보조금으로 자금을 지원받는다."
+      },
+      "rank": 256,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "finance",
+        "capital"
+      ],
+      "collocations": [
+        "raise funds",
+        "fund a project"
+      ]
+    },
+    {
+      "id": "investment",
+      "word": "investment",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "투자"
+      ],
+      "example": {
+        "en": "The new machines were a good investment.",
+        "ko": "새 기계는 좋은 투자였다."
+      },
+      "rank": 257,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "funding",
+        "stake"
+      ],
+      "collocations": [
+        "return on investment",
+        "make an investment"
+      ]
+    },
+    {
+      "id": "invest",
+      "word": "invest",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "투자하다"
+      ],
+      "example": {
+        "en": "The bank invested heavily in new technology.",
+        "ko": "그 은행은 신기술에 많이 투자했다."
+      },
+      "rank": 258,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "fund",
+        "put money into"
+      ],
+      "collocations": [
+        "invest in",
+        "invest time"
+      ]
+    },
+    {
+      "id": "loan",
+      "word": "loan",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "대출"
+      ],
+      "example": {
+        "en": "The bakery took out a loan to buy new ovens.",
+        "ko": "그 빵집은 새 오븐 구입을 위해 대출을 받았다."
+      },
+      "rank": 259,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "credit",
+        "advance"
+      ],
+      "collocations": [
+        "apply for a loan",
+        "repay a loan"
+      ]
+    },
+    {
+      "id": "economy",
+      "word": "economy",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "경제"
+      ],
+      "example": {
+        "en": "The local economy depends on tourism.",
+        "ko": "지역 경제는 관광에 의존한다."
+      },
+      "rank": 260,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "financial system"
+      ],
+      "collocations": [
+        "global economy",
+        "economy class"
+      ]
+    },
+    {
+      "id": "competitive",
+      "word": "competitive",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "경쟁력 있는",
+        "경쟁의"
+      ],
+      "example": {
+        "en": "We offer competitive salaries and benefits.",
+        "ko": "당사는 경쟁력 있는 급여와 복리후생을 제공한다."
+      },
+      "rank": 261,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "aggressive",
+        "affordable"
+      ],
+      "collocations": [
+        "competitive price",
+        "highly competitive"
+      ]
+    },
+    {
+      "id": "competitor",
+      "word": "competitor",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "경쟁자",
+        "경쟁사"
+      ],
+      "example": {
+        "en": "Our prices are lower than those of our competitors.",
+        "ko": "우리 가격은 경쟁사보다 낮다."
+      },
+      "rank": 262,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "rival",
+        "opponent"
+      ],
+      "collocations": [
+        "main competitor"
+      ]
+    },
+    {
+      "id": "affordable",
+      "word": "affordable",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "저렴한",
+        "감당할 수 있는"
+      ],
+      "example": {
+        "en": "The apartments are affordable for young workers.",
+        "ko": "그 아파트는 젊은 직장인이 감당할 만한 가격이다."
+      },
+      "rank": 263,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reasonable",
+        "inexpensive"
+      ],
+      "collocations": [
+        "affordable price",
+        "affordable housing"
+      ]
+    },
+    {
+      "id": "reasonable",
+      "word": "reasonable",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "합리적인",
+        "적당한"
+      ],
+      "example": {
+        "en": "The restaurant serves good food at reasonable prices.",
+        "ko": "그 식당은 적당한 가격에 좋은 음식을 낸다."
+      },
+      "rank": 264,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "fair",
+        "affordable"
+      ],
+      "collocations": [
+        "reasonable price",
+        "reasonable request"
+      ]
+    },
+    {
+      "id": "reliable",
+      "word": "reliable",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "믿을 수 있는"
+      ],
+      "example": {
+        "en": "We need a reliable courier for urgent packages.",
+        "ko": "급한 소포를 맡길 믿을 만한 택배사가 필요하다."
+      },
+      "rank": 265,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "dependable",
+        "trustworthy"
+      ],
+      "collocations": [
+        "reliable source",
+        "reliable service"
+      ]
+    },
+    {
+      "id": "convenient",
+      "word": "convenient",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "편리한"
+      ],
+      "example": {
+        "en": "The hotel is in a convenient location near the station.",
+        "ko": "그 호텔은 역 근처의 편리한 위치에 있다."
+      },
+      "rank": 266,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "handy",
+        "accessible"
+      ],
+      "collocations": [
+        "convenient for",
+        "at your convenience"
+      ]
+    },
+    {
+      "id": "accessible",
+      "word": "accessible",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "접근 가능한",
+        "이용하기 쉬운"
+      ],
+      "example": {
+        "en": "The museum is fully accessible to wheelchair users.",
+        "ko": "그 박물관은 휠체어 이용자가 완전히 이용할 수 있다."
+      },
+      "rank": 267,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reachable",
+        "available"
+      ],
+      "collocations": [
+        "easily accessible",
+        "accessible by"
+      ]
+    },
+    {
+      "id": "effective",
+      "word": "effective",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "효과적인",
+        "시행되는"
+      ],
+      "example": {
+        "en": "The new rules become effective on July 1.",
+        "ko": "새 규정은 7월 1일부터 시행된다."
+      },
+      "rank": 268,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "efficient",
+        "in effect"
+      ],
+      "collocations": [
+        "effective immediately",
+        "cost-effective"
+      ]
+    },
+    {
+      "id": "effectively",
+      "word": "effectively",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "효과적으로"
+      ],
+      "example": {
+        "en": "Managers must communicate effectively with their teams.",
+        "ko": "관리자는 팀과 효과적으로 소통해야 한다."
+      },
+      "rank": 269,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "efficiently",
+        "successfully"
+      ],
+      "collocations": [
+        "work effectively"
+      ]
+    },
+    {
+      "id": "successful",
+      "word": "successful",
+      "pos": [
+        "adj"
+      ],
+      "meanings": [
+        "성공적인"
+      ],
+      "example": {
+        "en": "The product launch was very successful.",
+        "ko": "제품 출시는 매우 성공적이었다."
+      },
+      "rank": 270,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "prosperous",
+        "effective"
+      ],
+      "collocations": [
+        "successful candidate",
+        "be successful in"
+      ]
+    },
+    {
+      "id": "successfully",
+      "word": "successfully",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "성공적으로"
+      ],
+      "example": {
+        "en": "The team successfully completed the project ahead of time.",
+        "ko": "팀은 기한보다 일찍 프로젝트를 성공적으로 마쳤다."
+      },
+      "rank": 271,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "effectively"
+      ],
+      "collocations": [
+        "successfully complete"
+      ]
+    },
+    {
+      "id": "originally",
+      "word": "originally",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "원래",
+        "처음에"
+      ],
+      "example": {
+        "en": "The meeting was originally planned for Monday.",
+        "ko": "회의는 원래 월요일로 계획되어 있었다."
+      },
+      "rank": 272,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "initially",
+        "at first"
+      ],
+      "collocations": [
+        "originally scheduled"
+      ]
+    },
+    {
+      "id": "temporarily",
+      "word": "temporarily",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "일시적으로"
+      ],
+      "example": {
+        "en": "The website is temporarily unavailable.",
+        "ko": "웹사이트는 일시적으로 이용할 수 없다."
+      },
+      "rank": 273,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "briefly",
+        "for now"
+      ],
+      "collocations": [
+        "temporarily closed"
+      ]
+    },
+    {
+      "id": "promptly",
+      "word": "promptly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "즉시",
+        "정각에"
+      ],
+      "example": {
+        "en": "The meeting will start promptly at nine.",
+        "ko": "회의는 9시 정각에 시작한다."
+      },
+      "rank": 274,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "immediately",
+        "punctually"
+      ],
+      "collocations": [
+        "respond promptly"
+      ]
+    },
+    {
+      "id": "regularly",
+      "word": "regularly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "정기적으로"
+      ],
+      "example": {
+        "en": "The equipment is regularly checked for safety.",
+        "ko": "장비는 정기적으로 안전 점검을 받는다."
+      },
+      "rank": 275,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "routinely",
+        "frequently"
+      ],
+      "collocations": [
+        "regularly scheduled"
+      ]
+    },
+    {
+      "id": "frequently",
+      "word": "frequently",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "자주"
+      ],
+      "example": {
+        "en": "This bus route is frequently delayed.",
+        "ko": "이 버스 노선은 자주 지연된다."
+      },
+      "rank": 276,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "often",
+        "regularly"
+      ],
+      "collocations": [
+        "frequently asked questions"
+      ]
+    },
+    {
+      "id": "carefully",
+      "word": "carefully",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "신중히",
+        "주의 깊게"
+      ],
+      "example": {
+        "en": "Please read the contract carefully before signing.",
+        "ko": "서명하기 전에 계약서를 꼼꼼히 읽으세요."
+      },
+      "rank": 277,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "cautiously",
+        "thoroughly"
+      ],
+      "collocations": [
+        "carefully review"
+      ]
+    },
+    {
+      "id": "especially",
+      "word": "especially",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "특히"
+      ],
+      "example": {
+        "en": "The park is especially beautiful in autumn.",
+        "ko": "그 공원은 가을에 특히 아름답다."
+      },
+      "rank": 278,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "particularly",
+        "notably"
+      ],
+      "collocations": [
+        "especially for"
+      ]
+    },
+    {
+      "id": "nearly",
+      "word": "nearly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "거의"
+      ],
+      "example": {
+        "en": "Nearly half of the staff work remotely.",
+        "ko": "직원의 거의 절반이 원격 근무를 한다."
+      },
+      "rank": 279,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "almost",
+        "approximately"
+      ],
+      "collocations": [
+        "nearly all",
+        "nearly double"
+      ]
+    },
+    {
+      "id": "shortly",
+      "word": "shortly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "곧",
+        "얼마 안 되어"
+      ],
+      "example": {
+        "en": "The train will arrive shortly.",
+        "ko": "기차가 곧 도착합니다."
+      },
+      "rank": 280,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "soon",
+        "in a moment"
+      ],
+      "collocations": [
+        "shortly after",
+        "shortly before"
+      ]
+    },
+    {
+      "id": "previously",
+      "word": "previously",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "이전에"
+      ],
+      "example": {
+        "en": "The space was previously used as a warehouse.",
+        "ko": "그 공간은 이전에 창고로 쓰였다."
+      },
+      "rank": 281,
+      "parts": [
+        "Part5"
+      ],
+      "synonyms": [
+        "formerly",
+        "before"
+      ],
+      "collocations": [
+        "as previously mentioned"
+      ]
+    },
+    {
+      "id": "accordingly",
+      "word": "accordingly",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "그에 따라"
+      ],
+      "example": {
+        "en": "Prices may change, so plan your budget accordingly.",
+        "ko": "가격이 바뀔 수 있으니 그에 맞춰 예산을 세우세요."
+      },
+      "rank": 282,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "correspondingly",
+        "therefore"
+      ],
+      "collocations": [
+        "act accordingly"
+      ]
+    },
+    {
+      "id": "however",
+      "word": "however",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "그러나"
+      ],
+      "example": {
+        "en": "The plan is good; however, it is too expensive.",
+        "ko": "계획은 좋지만 너무 비싸다."
+      },
+      "rank": 283,
+      "parts": [
+        "Part5",
+        "Part6"
+      ],
+      "synonyms": [
+        "nevertheless",
+        "but"
+      ],
+      "collocations": [
+        "however much"
+      ]
+    },
+    {
+      "id": "therefore",
+      "word": "therefore",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "그러므로"
+      ],
+      "example": {
+        "en": "The road is closed; therefore, the bus will take a detour.",
+        "ko": "도로가 폐쇄되어 버스가 우회할 것이다."
+      },
+      "rank": 284,
+      "parts": [
+        "Part5",
+        "Part6"
+      ],
+      "synonyms": [
+        "thus",
+        "consequently"
+      ],
+      "collocations": [
+        "and therefore"
+      ]
+    },
+    {
+      "id": "furthermore",
+      "word": "furthermore",
+      "pos": [
+        "adv"
+      ],
+      "meanings": [
+        "게다가"
+      ],
+      "example": {
+        "en": "The hotel is clean; furthermore, the staff are friendly.",
+        "ko": "호텔은 깨끗하고, 게다가 직원들도 친절하다."
+      },
+      "rank": 285,
+      "parts": [
+        "Part6"
+      ],
+      "synonyms": [
+        "moreover",
+        "in addition"
+      ],
+      "collocations": [
+        "furthermore, the"
+      ]
+    },
+    {
+      "id": "although",
+      "word": "although",
+      "pos": [
+        "conj"
+      ],
+      "meanings": [
+        "비록 ~이지만"
+      ],
+      "example": {
+        "en": "Although it rained, the festival was crowded.",
+        "ko": "비가 왔지만 축제는 붐볐다."
+      },
+      "rank": 286,
+      "parts": [
+        "Part5",
+        "Part6"
+      ],
+      "synonyms": [
+        "though",
+        "even though"
+      ],
+      "collocations": [
+        "although it is"
+      ]
+    },
+    {
+      "id": "despite",
+      "word": "despite",
+      "pos": [
+        "prep"
+      ],
+      "meanings": [
+        "~에도 불구하고"
+      ],
+      "example": {
+        "en": "Despite the delay, the shipment arrived in good condition.",
+        "ko": "지연에도 불구하고 화물은 좋은 상태로 도착했다."
+      },
+      "rank": 287,
+      "parts": [
+        "Part5",
+        "Part6"
+      ],
+      "synonyms": [
+        "in spite of",
+        "notwithstanding"
+      ],
+      "collocations": [
+        "despite the fact that"
+      ]
+    },
+    {
+      "id": "according-to",
+      "word": "according to",
+      "pos": [
+        "prep"
+      ],
+      "meanings": [
+        "~에 따르면",
+        "~에 따라"
+      ],
+      "example": {
+        "en": "According to the forecast, it will snow tomorrow.",
+        "ko": "예보에 따르면 내일 눈이 온다."
+      },
+      "rank": 288,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "as stated by"
+      ],
+      "collocations": [
+        "according to the report",
+        "according to plan"
+      ]
+    },
+    {
+      "id": "regarding",
+      "word": "regarding",
+      "pos": [
+        "prep"
+      ],
+      "meanings": [
+        "~에 관하여"
+      ],
+      "example": {
+        "en": "I am writing regarding your recent order.",
+        "ko": "최근 주문 건과 관련하여 연락드립니다."
+      },
+      "rank": 289,
+      "parts": [
+        "Part5",
+        "Part6",
+        "Part7"
+      ],
+      "synonyms": [
+        "concerning",
+        "about"
+      ],
+      "collocations": [
+        "regarding your inquiry"
+      ]
+    },
+    {
+      "id": "inquiry",
+      "word": "inquiry",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "문의",
+        "조사"
+      ],
+      "example": {
+        "en": "We received many inquiries about the job opening.",
+        "ko": "채용 공고에 대해 많은 문의를 받았다."
+      },
+      "rank": 290,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "question",
+        "query"
+      ],
+      "collocations": [
+        "make an inquiry",
+        "in response to your inquiry"
+      ]
+    },
+    {
+      "id": "inquire",
+      "word": "inquire",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "문의하다"
+      ],
+      "example": {
+        "en": "Several customers inquired about the new menu.",
+        "ko": "여러 고객이 새 메뉴에 대해 문의했다."
+      },
+      "rank": 291,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "ask",
+        "query"
+      ],
+      "collocations": [
+        "inquire about"
+      ]
+    },
+    {
+      "id": "respond",
+      "word": "respond",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "응답하다",
+        "대응하다"
+      ],
+      "example": {
+        "en": "Please respond to this e-mail by Tuesday.",
+        "ko": "화요일까지 이 이메일에 답장해 주세요."
+      },
+      "rank": 292,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reply",
+        "answer"
+      ],
+      "collocations": [
+        "respond to",
+        "respond quickly"
+      ]
+    },
+    {
+      "id": "response",
+      "word": "response",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "응답",
+        "반응"
+      ],
+      "example": {
+        "en": "The response to the new product has been positive.",
+        "ko": "신제품에 대한 반응이 긍정적이다."
+      },
+      "rank": 293,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "reply",
+        "reaction"
+      ],
+      "collocations": [
+        "in response to",
+        "positive response"
+      ]
+    },
+    {
+      "id": "notify",
+      "word": "notify",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "통지하다",
+        "알리다"
+      ],
+      "example": {
+        "en": "We will notify you when your order ships.",
+        "ko": "주문 상품이 발송되면 알려 드리겠습니다."
+      },
+      "rank": 294,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "inform",
+        "tell"
+      ],
+      "collocations": [
+        "notify A of B",
+        "be notified"
+      ]
+    },
+    {
+      "id": "notice",
+      "word": "notice",
+      "pos": [
+        "n",
+        "v"
+      ],
+      "meanings": [
+        "공지",
+        "통지",
+        "알아차리다"
+      ],
+      "example": {
+        "en": "The office will close until further notice.",
+        "ko": "추후 공지가 있을 때까지 사무실은 문을 닫는다."
+      },
+      "rank": 295,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "announcement",
+        "notification"
+      ],
+      "collocations": [
+        "until further notice",
+        "short notice"
+      ]
+    },
+    {
+      "id": "inform",
+      "word": "inform",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "알리다"
+      ],
+      "example": {
+        "en": "Please inform the front desk of any changes.",
+        "ko": "변경 사항은 프런트에 알려 주세요."
+      },
+      "rank": 296,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "notify",
+        "tell"
+      ],
+      "collocations": [
+        "inform A of B",
+        "keep A informed"
+      ]
+    },
+    {
+      "id": "remind",
+      "word": "remind",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "상기시키다"
+      ],
+      "example": {
+        "en": "This is to remind you of your appointment tomorrow.",
+        "ko": "내일 예약을 알려 드리기 위해 연락드립니다."
+      },
+      "rank": 297,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "prompt"
+      ],
+      "collocations": [
+        "remind A of B",
+        "remind A to do"
+      ]
+    },
+    {
+      "id": "reminder",
+      "word": "reminder",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "알림",
+        "독촉장"
+      ],
+      "example": {
+        "en": "You will get a text reminder one day before.",
+        "ko": "하루 전에 문자 알림을 받게 됩니다."
+      },
+      "rank": 298,
+      "parts": [
+        "Part5",
+        "Part7"
+      ],
+      "synonyms": [
+        "notice",
+        "prompt"
+      ],
+      "collocations": [
+        "send a reminder",
+        "friendly reminder"
+      ]
+    },
+    {
+      "id": "appointment",
+      "word": "appointment",
+      "pos": [
+        "n"
+      ],
+      "meanings": [
+        "약속",
+        "예약",
+        "임명"
+      ],
+      "example": {
+        "en": "I have a dental appointment at 3 P.M.",
+        "ko": "오후 3시에 치과 예약이 있다."
+      },
+      "rank": 299,
+      "parts": [
+        "Part5",
+        "Part7",
+        "LC"
+      ],
+      "synonyms": [
+        "meeting",
+        "booking"
+      ],
+      "collocations": [
+        "make an appointment",
+        "reschedule an appointment"
+      ]
+    },
+    {
+      "id": "reschedule",
+      "word": "reschedule",
+      "pos": [
+        "v"
+      ],
+      "meanings": [
+        "일정을 변경하다"
+      ],
+      "example": {
+        "en": "Can we reschedule the call for next week?",
+        "ko": "통화를 다음 주로 미룰 수 있을까요?"
+      },
+      "rank": 300,
+      "parts": [
+        "Part5",
+        "LC"
+      ],
+      "synonyms": [
+        "postpone",
+        "rearrange"
+      ],
+      "collocations": [
+        "reschedule a meeting"
+      ]
+    }
+  ]
+}
